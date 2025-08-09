@@ -1,0 +1,19 @@
+{
+  "investment_amount": 30000.0,
+  "risk_level": "moderate",
+  "time_horizon": 1,
+  "investment_goal": "wealth",
+  "monthly_contribution": 0,
+  "preferred_sectors": [
+    "Healthcare"
+  ],
+  "avoid_sectors": [],
+  "needs_liquidity": false,
+  "prefers_esg": false,
+  "tax_sensitive": false,
+  "user_sophistication": "beginner",
+  "profile_id": "AIV_20250808_232117",
+  "creation_timestamp": "2025-08-08T23:21:17.022128",
+  "profile_quality": 0.62,
+  "behavioral_traits": {}
+}

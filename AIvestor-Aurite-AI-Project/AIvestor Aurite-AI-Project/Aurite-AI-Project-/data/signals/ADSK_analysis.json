@@ -1,0 +1,51 @@
+{
+  "company_info": {
+    "symbol": "ADSK",
+    "name": "Autodesk, Inc.",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap": 62189527040,
+    "employees": 15300,
+    "description": "Autodesk, Inc. provides 3D design, engineering, and entertainment technology solutions worldwide. It offers AutoCAD Civil 3D, a surveying, design, analysis, and documentation solution; Autodesk Build, a toolset for managing, sharing, and accessing project documents for streamlined workflows between ...",
+    "website": "https://www.autodesk.com",
+    "currency": "USD"
+  },
+  "key_metrics": {
+    "pe_ratio": 62.37768,
+    "forward_pe": 31.664486,
+    "pb_ratio": 23.769728,
+    "ps_ratio": 9.798256,
+    "ev_revenue": 9.958,
+    "ev_ebitda": 42.447,
+    "roe": 0.42361,
+    "roa": 0.08842,
+    "gross_margin": 0.91996,
+    "operating_margin": 0.21004,
+    "net_margin": 1012000000,
+    "debt_to_equity": 97.211,
+    "current_ratio": 0.654,
+    "quick_ratio": 0.515,
+    "revenue_growth": 0.152,
+    "earnings_growth": -0.397,
+    "earnings_quarterly_growth": -0.397,
+    "payout_ratio": 0.0,
+    "beta": 1.468,
+    "book_value": 12.229,
+    "price_to_book": 23.769728,
+    "52w_high": 326.62,
+    "52w_low": 232.67,
+    "market_cap": 62189527040,
+    "enterprise_value": 63203860480
+  },
+  "signal": {
+    "signal": "Hold",
+    "reason": "No reason provided",
+    "risk": "No risk identified",
+    "target_price": 300.0,
+    "score": 5.0,
+    "confidence": "high",
+    "raw_response": "```json\n{\n  \"signal\": \"Hold\",\n  \"confidence\": 6,\n  \"thesis\": \"Autodesk's strong market position and cash flow are offset by high valuation and negative earnings growth. Cloud expansion is a key catalyst.\",\n  \"primary_risk\": \"Regulatory challenges with a 30% probability\",\n  \"secondary_risk\": \"Economic sensitivity with a 25% probability\",\n  \"target_price\": 300.0,\n  \"upside_scenario\": 330.0,\n  \"downside_scenario\": 270.0,\n  \"stop_loss\": 275.0,\n  \"position_size\": \"3-5% of portfolio\",\n  \"investment_score\": 6.5,\n  \"time_horizon\": \"12-18 months\",\n  \"rebalancing_triggers\": [\"Earnings miss\", \"Technical breakdown\", \"Macro shift\"]\n}\n```"
+  },
+  "analysis": "**1. FUNDAMENTAL ANALYSIS**\n\nAutodesk, Inc. (ADSK) demonstrates robust financial health with a strong gross margin of 91.996%, indicating efficient cost management. However, the operating margin of 21.004% suggests room for operational efficiency improvements. Revenue growth at 15.2% is healthy, but earnings growth is negative at -39.7%, raising concerns about profitability sustainability. Free cash flow remains strong at $1.505 billion, supporting potential reinvestment and shareholder returns.\n\nValuation metrics show a high P/E ratio of 62.38, indicating premium pricing compared to industry peers, while the forward P/E of 31.66 suggests expected earnings growth. The P/B ratio of 23.77 is elevated, reflecting high market expectations. Autodesk's competitive position is solid, with a significant market share in design software and a strong moat due to high switching costs and a comprehensive product ecosystem.\n\nGrowth prospects are promising, driven by digital transformation trends and expansion into cloud-based solutions. However, risks include high debt-to-equity (97.211), regulatory challenges, and market concentration in the AEC industry.\n\n**2. TECHNICAL ANALYSIS**\n\nAutodesk's price action shows a bullish trend, although the current price is below the 20-day moving average, indicating potential short-term weakness. The RSI at 39.3 suggests a neutral stance, while the MACD's bearish cross indicates potential downward momentum. The stock is near the lower Bollinger Band, suggesting it may be oversold.\n\nVolatility is moderate at 19.5%, implying a balanced risk-reward profile. Key support levels are around $290, with resistance near $310. The market structure does not show clear Elliott Wave patterns, but Fibonacci retracements suggest potential support at $285.\n\n**3. MACROECONOMIC CONTEXT**\n\nThe technology sector is poised for growth, driven by digitalization and cloud adoption. However, regulatory scrutiny and data privacy concerns pose risks. Autodesk's sensitivity to economic cycles is moderate, with interest rate hikes potentially impacting capital expenditure. Inflationary pressures could affect input costs, but the company's pricing power may mitigate this. Geopolitical factors, such as trade tensions, could impact global operations, but Autodesk's diversified market presence provides some insulation.\n\n**4. INVESTMENT RECOMMENDATION**\n\nRecommendation: Hold (Conviction Level: 6)\n\nAutodesk's core investment thesis is supported by its strong market position, robust cash flow, and growth prospects in digital transformation. However, high valuation metrics and negative earnings growth warrant caution. The risk-adjusted return expectation is moderate over a 12-18 month horizon, with potential upside from cloud expansion and innovation.\n\nMajor risks include regulatory challenges and economic sensitivity. Mitigation strategies involve monitoring debt levels and diversifying revenue streams. Portfolio positioning should be as a core holding for growth-oriented investors, with a focus on long-term capital appreciation.",
+  "technical_summary": "Current Price: $295.57 (-0.66%)\nTrend: Bullish, price below 20-day MA\nRSI: 39.3 (Neutral)\nMACD: Bearish Cross\nAnnualized Volatility: 19.5% (Medium)\nBollinger Bands: Near lower band (oversold)"
+}

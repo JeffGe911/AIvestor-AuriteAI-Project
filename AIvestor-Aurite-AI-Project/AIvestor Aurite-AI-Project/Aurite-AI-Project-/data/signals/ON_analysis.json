@@ -1,0 +1,51 @@
+{
+  "company_info": {
+    "symbol": "ON",
+    "name": "ON Semiconductor Corporation",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "market_cap": 19491700736,
+    "employees": 26400,
+    "description": "ON Semiconductor Corporation provides intelligent sensing and power solutions in Hong Kong, Singapore, the United Kingdom, the United States, and internationally. The company operates through three segments Power Solutions Group, Analog and Mixed-Signal Group, and Intelligent Sensing Group. The Powe...",
+    "website": "https://www.onsemi.com",
+    "currency": "USD"
+  },
+  "key_metrics": {
+    "pe_ratio": 45.390476,
+    "forward_pe": 11.032407,
+    "pb_ratio": 2.4680233,
+    "ps_ratio": 3.0461495,
+    "ev_revenue": 3.171,
+    "ev_ebitda": 11.366,
+    "roe": 0.05748,
+    "roa": 0.05284,
+    "gross_margin": 0.37884998,
+    "operating_margin": 0.16518,
+    "net_margin": 465800000,
+    "debt_to_equity": 45.661,
+    "current_ratio": 5.022,
+    "quick_ratio": 3.004,
+    "revenue_growth": -0.154,
+    "earnings_growth": -0.474,
+    "earnings_quarterly_growth": -0.496,
+    "payout_ratio": 0.0,
+    "beta": 1.449,
+    "book_value": 19.311,
+    "price_to_book": 2.4680233,
+    "52w_high": 78.61,
+    "52w_low": 31.04,
+    "market_cap": 19491700736,
+    "enterprise_value": 20291973120
+  },
+  "signal": {
+    "signal": "Hold",
+    "reason": "No reason provided",
+    "risk": "No risk identified",
+    "target_price": 70.0,
+    "score": 5.0,
+    "confidence": "high",
+    "raw_response": "```json\n{\n  \"signal\": \"Hold\",\n  \"confidence\": 6,\n  \"thesis\": \"ON Semiconductor's strong liquidity and competitive margins in high-growth markets are offset by negative revenue and earnings growth.\",\n  \"primary_risk\": \"Technological disruption with a probability of 30%\",\n  \"secondary_risk\": \"Regulatory changes with a probability of 25%\",\n  \"target_price\": 70.0,\n  \"upside_scenario\": 85.0,\n  \"downside_scenario\": 55.0,\n  \"stop_loss\": 58.0,\n  \"position_size\": \"2-3% of portfolio\",\n  \"investment_score\": 6.5,\n  \"time_horizon\": \"12-18 months\",\n  \"rebalancing_triggers\": [\"Earnings miss\", \"Technical breakdown\", \"Macro shift\"]\n}\n```"
+  },
+  "analysis": "**1. FUNDAMENTAL ANALYSIS**\n\nON Semiconductor Corporation (ON) presents a mixed financial health profile. The company is experiencing negative revenue growth (-15.4%) and earnings growth (-47.4%), indicating potential challenges in maintaining its market position. Despite this, ON's profitability metrics, such as a gross margin of 37.88% and an operating margin of 16.52%, suggest operational efficiency. The company's strong current (5.022) and quick ratios (3.004) highlight robust liquidity, although a debt-to-equity ratio of 45.661 indicates moderate leverage.\n\nValuation metrics reveal a high trailing PE ratio of 45.39, suggesting overvaluation compared to the industry average, but a more reasonable forward PE of 11.03 implies expected earnings growth. The PB ratio of 2.47 is competitive, reflecting a fair valuation relative to book value.\n\nON's competitive position is bolstered by its market share in the semiconductor industry, driven by its focus on automotive and industrial applications. However, the company faces risks from rapid technological changes and intense competition. Growth prospects hinge on expanding its product portfolio and leveraging its innovation pipeline, particularly in power management and sensor technologies.\n\nKey risks include potential regulatory changes, market concentration in specific sectors, and supply chain disruptions.\n\n**2. TECHNICAL ANALYSIS**\n\nON's current price action is bearish, with the stock trading below its 20-day moving average, indicating downward momentum. The RSI at 39.9 suggests the stock is nearing oversold territory, while a bearish MACD cross confirms negative sentiment. The stock's annualized volatility of 39.5% is high, indicating significant price swings.\n\nKey support levels are near the lower Bollinger Band, around $60, with resistance at the 20-day MA near $65. Volume analysis shows declining interest, reinforcing the bearish trend. No clear breakout patterns are evident, suggesting continued consolidation or further downside.\n\n**3. MACROECONOMIC CONTEXT**\n\nThe semiconductor sector is poised for growth, driven by demand in automotive, IoT, and AI applications. However, the industry faces regulatory scrutiny and potential supply chain challenges. ON's economic sensitivity is moderate, with interest rates and inflation impacting production costs and consumer demand. Geopolitical factors, such as trade tensions and regulatory changes, could affect global market exposure and supply chain stability.\n\n**4. INVESTMENT RECOMMENDATION**\n\nRecommendation: Hold (Conviction Level: 6)\n\nON Semiconductor's investment thesis is supported by its strong liquidity position, competitive margins, and strategic focus on high-growth markets like automotive and industrial applications. However, negative revenue and earnings growth, coupled with a high trailing PE ratio, warrant caution.\n\nRisk-adjusted return expectations are moderate, with a 12-18 month horizon. Key risks include regulatory changes, technological disruption, and market volatility. Mitigation strategies involve diversifying exposure across the semiconductor sector and monitoring macroeconomic indicators.\n\nPortfolio positioning: Consider ON as a satellite allocation, complementing core holdings in more stable sectors. This approach balances potential upside from innovation-driven growth with the inherent risks of the semiconductor industry.",
+  "technical_summary": "Current Price: $63.05 (-0.65%)\nTrend: Bearish, price below 20-day MA\nRSI: 39.9 (Neutral)\nMACD: Bearish Cross\nAnnualized Volatility: 39.5% (High)\nBollinger Bands: Near lower band (oversold)"
+}

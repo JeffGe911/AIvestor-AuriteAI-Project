@@ -1,0 +1,51 @@
+{
+  "company_info": {
+    "symbol": "MAR",
+    "name": "Marriott International, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Lodging",
+    "market_cap": 70557360128,
+    "employees": 418000,
+    "description": "Marriott International, Inc. engages in operation, franchising, and licensing of hotel, residential, timeshare, and other lodging properties worldwide. It operates its properties under the JW Marriott, The Ritz-Carlton, The Luxury Collection, W Hotels, St. Regis, EDITION, Bvlgari, Marriott Hotels, S...",
+    "website": "https://www.marriott.com",
+    "currency": "USD"
+  },
+  "key_metrics": {
+    "pe_ratio": 29.237347,
+    "forward_pe": 24.520756,
+    "pb_ratio": -23.861197,
+    "ps_ratio": 10.402087,
+    "ev_revenue": 12.768,
+    "ev_ebitda": 19.701,
+    "roa": 0.09375,
+    "gross_margin": 0.8169,
+    "operating_margin": 0.68653,
+    "net_margin": 2467000064,
+    "current_ratio": 0.492,
+    "quick_ratio": 0.446,
+    "revenue_growth": 0.059,
+    "earnings_growth": 0.033,
+    "earnings_quarterly_growth": -0.012,
+    "dividend_yield": 1.03,
+    "payout_ratio": 0.2883,
+    "dividend_rate": 2.68,
+    "beta": 1.441,
+    "book_value": -10.893,
+    "price_to_book": -23.861197,
+    "52w_high": 307.52,
+    "52w_low": 205.4,
+    "market_cap": 70557360128,
+    "enterprise_value": 86604201984
+  },
+  "signal": {
+    "signal": "Hold",
+    "reason": "No reason provided",
+    "risk": "No risk identified",
+    "target_price": 280.0,
+    "score": 5.0,
+    "confidence": "high",
+    "raw_response": "```json\n{\n  \"signal\": \"Hold\",\n  \"confidence\": 6,\n  \"thesis\": \"Marriott's strong brand and global presence support stability, with growth in emerging markets and digital enhancements as key catalysts.\",\n  \"primary_risk\": \"Economic downturn with a probability of 30%\",\n  \"secondary_risk\": \"Regulatory changes with a probability of 20%\",\n  \"target_price\": 280.0,\n  \"upside_scenario\": 310.0,\n  \"downside_scenario\": 250.0,\n  \"stop_loss\": 260.0,\n  \"position_size\": \"5-7% of portfolio\",\n  \"investment_score\": 6.5,\n  \"time_horizon\": \"12-18 months\",\n  \"rebalancing_triggers\": [\"Earnings miss\", \"Technical breakdown below $270\", \"Significant macroeconomic shifts\"]\n}\n```"
+  },
+  "analysis": "**1. FUNDAMENTAL ANALYSIS**\n\nMarriott International exhibits moderate revenue growth at 5.9% and earnings growth at 3.3%, reflecting a stable post-pandemic recovery. Profitability metrics are robust, with a gross margin of 81.69% and an operating margin of 68.65%, indicating efficient cost management. However, the net margin appears anomalous due to data formatting, likely overstating profitability. Cash flow analysis shows a decline in free cash flow from $2.718 billion to $1.999 billion, impacted by aggressive share repurchases and capital expenditures.\n\nValuation metrics reveal a PE ratio of 29.24 and a forward PE of 24.52, suggesting a premium valuation compared to industry averages, potentially justified by Marriott's strong brand and market position. The negative PB ratio indicates significant intangible assets, common in the lodging industry.\n\nMarriott's competitive position is solid, with a vast global footprint and strong brand loyalty. However, its tangible book value is negative, reflecting high leverage and intangible asset reliance. Growth prospects include expanding into emerging markets and enhancing digital offerings, though regulatory and geopolitical risks persist.\n\n**2. TECHNICAL ANALYSIS**\n\nMarriott's stock is in a bullish trend, though currently below the 20-day moving average, indicating potential short-term weakness. The RSI at 39.6 suggests a neutral to slightly oversold condition, while a bearish MACD cross signals potential downward momentum. The stock is near the lower Bollinger Band, indicating oversold conditions, which may attract buyers.\n\nVolatility is moderate at 21.8%, suggesting potential price swings. Key support is around $270, with resistance near $290. A break below support could signal further downside, while a move above resistance may confirm a bullish continuation.\n\n**3. MACROECONOMIC CONTEXT**\n\nThe lodging industry is recovering, driven by increased travel demand and easing restrictions. However, it remains sensitive to economic cycles, with interest rate hikes potentially dampening consumer spending. Inflationary pressures could impact operational costs, though Marriott's pricing power may mitigate this. Geopolitical tensions and regulatory changes pose risks, particularly in international markets.\n\n**4. INVESTMENT RECOMMENDATION**\n\nRecommendation: Hold (Conviction Level: 6)\n\nMarriott's strong brand and global presence support a stable investment thesis. Key points include robust profitability, strategic expansion opportunities, and effective cost management. However, premium valuation and macroeconomic uncertainties warrant caution. Risk-adjusted returns are moderate, with a 12-18 month horizon.\n\nRisks include economic downturns, regulatory changes, and geopolitical tensions. Mitigation strategies involve diversifying geographically and enhancing digital capabilities. Portfolio positioning should be as a core holding, given its market leadership and resilience, but investors should monitor macroeconomic indicators closely.",
+  "technical_summary": "Current Price: $277.60 (-0.49%)\nTrend: Bullish, price below 20-day MA\nRSI: 39.6 (Neutral)\nMACD: Bearish Cross\nAnnualized Volatility: 21.8% (Medium)\nBollinger Bands: Near lower band (oversold)"
+}

@@ -1,0 +1,53 @@
+{
+  "company_info": {
+    "symbol": "CTSH",
+    "name": "Cognizant Technology Solutions Corporation",
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "market_cap": 33982595072,
+    "employees": 343800,
+    "description": "Cognizant Technology Solutions Corporation, a professional services company, provides consulting and technology, and outsourcing services in North America, Europe, and internationally. It operates through four segments: Financial Services; Health Sciences; Products and Resources; and Communications,...",
+    "website": "https://www.cognizant.com",
+    "currency": "USD"
+  },
+  "key_metrics": {
+    "pe_ratio": 14.113591,
+    "forward_pe": 13.943889,
+    "pb_ratio": 2.225563,
+    "ps_ratio": 1.6588204,
+    "ev_revenue": 1.617,
+    "ev_ebitda": 8.982,
+    "roe": 0.16693,
+    "roa": 0.10256,
+    "gross_margin": 0.34179002,
+    "operating_margin": 0.15577,
+    "net_margin": 2436000000,
+    "debt_to_equity": 7.699,
+    "current_ratio": 2.41,
+    "quick_ratio": 1.968,
+    "revenue_growth": 0.081,
+    "earnings_growth": 0.15,
+    "earnings_quarterly_growth": 0.14,
+    "dividend_yield": 1.79,
+    "payout_ratio": 0.2475,
+    "dividend_rate": 1.24,
+    "beta": 0.893,
+    "book_value": 31.264,
+    "price_to_book": 2.225563,
+    "52w_high": 90.82,
+    "52w_low": 65.52,
+    "market_cap": 33982595072,
+    "enterprise_value": 33126926336
+  },
+  "signal": {
+    "signal": "Buy",
+    "reason": "No reason provided",
+    "risk": "No risk identified",
+    "target_price": 90.0,
+    "score": 5.0,
+    "confidence": "high",
+    "raw_response": "```json\n{\n  \"signal\": \"Buy\",\n  \"confidence\": 8.0,\n  \"thesis\": \"CTSH is well-positioned for growth with strong financials and digital transformation trends as key catalysts.\",\n  \"primary_risk\": \"Regulatory changes with a moderate probability of impacting operations.\",\n  \"secondary_risk\": \"Technological disruptions with a low probability but high impact potential.\",\n  \"target_price\": 90.0,\n  \"upside_scenario\": 100.0,\n  \"downside_scenario\": 75.0,\n  \"stop_loss\": 70.0,\n  \"position_size\": \"3-5% of portfolio\",\n  \"investment_score\": 8.0,\n  \"time_horizon\": \"12-18 months\",\n  \"rebalancing_triggers\": [\"Earnings miss\", \"Technical breakdown\", \"Macro shift\"]\n}\n```"
+  },
+  "analysis": "**1. FUNDAMENTAL ANALYSIS**\n\nCognizant Technology Solutions Corporation (CTSH) demonstrates solid financial health with a stable revenue growth rate of 8.1% and earnings growth of 15%. The company maintains a healthy profitability profile, evidenced by a return on equity (ROE) of 16.7% and a return on assets (ROA) of 10.3%. The gross margin of 34.2% and operating margin of 15.6% indicate efficient cost management. Cash flow analysis reveals a robust free cash flow generation, although it has slightly decreased from previous years. Valuation metrics show a PE ratio of 14.1 and a PB ratio of 2.23, suggesting the stock is reasonably valued compared to industry peers. CTSH's competitive position is strong, with a significant market share in IT services, supported by a broad service portfolio and a global delivery model. Growth prospects are promising, driven by digital transformation trends and expansion in emerging markets. However, risks include regulatory changes, market concentration, and potential disruptions from technological advancements.\n\n**2. TECHNICAL ANALYSIS**\n\nCTSH's price action shows a bullish trend, although the current price is below the 20-day moving average, indicating potential short-term weakness. The RSI at 36.9 suggests the stock is nearing oversold territory, while the MACD indicates a bearish cross, signaling potential downward momentum. The stock is trading near the lower Bollinger Band, which may present a buying opportunity if the price rebounds. Historical volatility at 20.4% is moderate, suggesting a balanced risk profile. Key support levels are around $74, with resistance near $80. The market structure does not show clear Elliott Wave patterns or Fibonacci retracement levels, but the overall trend remains positive.\n\n**3. MACROECONOMIC CONTEXT**\n\nThe IT services sector is poised for growth, driven by increasing demand for digital transformation and cloud services. Regulatory environments remain stable, but technological disruptions pose both opportunities and threats. CTSH is moderately sensitive to economic cycles, with interest rate changes and inflation potentially impacting cost structures and client budgets. Geopolitical factors, such as trade relations and regulatory changes, could affect global operations, but CTSH's diversified client base mitigates some risks.\n\n**4. INVESTMENT RECOMMENDATION**\n\nRecommendation: Buy (Conviction Level: 8/10)\n\nCognizant Technology Solutions offers a compelling investment opportunity due to its strong financial health, reasonable valuation, and robust growth prospects. Key supporting points include its leading market position in IT services, consistent revenue and earnings growth, and strategic expansion into high-growth areas like digital and cloud services. The risk-adjusted return expectation is favorable over a 12-18 month horizon, with potential upside from continued digital transformation trends. Major risks include regulatory changes and technological disruptions, which can be mitigated by diversifying the portfolio and monitoring industry developments. For portfolio positioning, CTSH is suitable as a core holding, given its stable cash flows and growth potential.",
+  "technical_summary": "Current Price: $76.35 (+0.20%)\nTrend: Bullish, price below 20-day MA\nRSI: 36.9 (Neutral)\nMACD: Bearish Cross\nAnnualized Volatility: 20.4% (Medium)\nBollinger Bands: Near lower band (oversold)"
+}

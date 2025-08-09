@@ -1,0 +1,53 @@
+{
+  "company_info": {
+    "symbol": "FANG",
+    "name": "Diamondback Energy, Inc.",
+    "sector": "Energy",
+    "industry": "Oil & Gas E&P",
+    "market_cap": 41115697152,
+    "employees": 1983,
+    "description": "Diamondback Energy, Inc., an independent oil and natural gas company, acquires, develops, explores, and exploits unconventional, onshore oil and natural gas reserves in the Permian Basin in West Texas. It focuses on the development of the Spraberry and Wolfcamp formations of the Midland basin; and t...",
+    "website": "https://www.diamondbackenergy.com",
+    "currency": "USD"
+  },
+  "key_metrics": {
+    "pe_ratio": 10.292028,
+    "forward_pe": 9.701503,
+    "pb_ratio": 1.0635765,
+    "ps_ratio": 3.033921,
+    "ev_revenue": 4.423,
+    "ev_ebitda": 6.116,
+    "roe": 0.13784,
+    "roa": 0.06437,
+    "gross_margin": 0.74336,
+    "operating_margin": 0.26896998,
+    "net_margin": 3816000000,
+    "debt_to_equity": 35.342,
+    "current_ratio": 0.55,
+    "quick_ratio": 0.466,
+    "revenue_growth": 0.54,
+    "earnings_growth": -0.489,
+    "earnings_quarterly_growth": -0.165,
+    "dividend_yield": 2.76,
+    "payout_ratio": 0.3797,
+    "dividend_rate": 3.9,
+    "beta": 1.066,
+    "book_value": 133.54,
+    "price_to_book": 1.0635765,
+    "52w_high": 202.87,
+    "52w_low": 114.0,
+    "market_cap": 41115697152,
+    "enterprise_value": 59939835904
+  },
+  "signal": {
+    "signal": "Hold",
+    "reason": "No reason provided",
+    "risk": "No risk identified",
+    "target_price": 160.0,
+    "score": 5.0,
+    "confidence": "high",
+    "raw_response": "```json\n{\n  \"signal\": \"Hold\",\n  \"confidence\": 6,\n  \"thesis\": \"Diamondback Energy's strong revenue growth and strategic position in the Permian Basin are offset by earnings decline and liquidity concerns. Short-term gains possible with bullish technicals.\",\n  \"primary_risk\": \"Oil price volatility with a medium probability\",\n  \"secondary_risk\": \"Regulatory changes impacting operations\",\n  \"target_price\": 160.0,\n  \"upside_scenario\": 180.0,\n  \"downside_scenario\": 140.0,\n  \"stop_loss\": 130.0,\n  \"position_size\": \"3-5% of portfolio\",\n  \"investment_score\": 6.5,\n  \"time_horizon\": \"12-18 months\",\n  \"rebalancing_triggers\": [\"Earnings miss\", \"Technical breakdown\", \"Macro shift\"]\n}\n```"
+  },
+  "analysis": "**1. FUNDAMENTAL ANALYSIS**\n\nDiamondback Energy, Inc. (FANG) presents a mixed financial health profile. The company exhibits strong revenue growth of 54%, yet faces a significant earnings decline of 48.9%, indicating potential cost pressures or market challenges. Profitability metrics such as a gross margin of 74.34% and an operating margin of 26.9% are robust, but the net margin appears misreported as an absolute figure rather than a percentage. The debt-to-equity ratio of 35.34 suggests manageable leverage, though the current and quick ratios below 1 indicate liquidity constraints. Valuation metrics show a PE ratio of 10.29 and a PB ratio of 1.06, suggesting the stock is reasonably valued compared to industry peers. Diamondback's competitive position is solid, with a strong market presence in the Permian Basin, though it faces competition from larger integrated oil companies. Growth prospects are tied to organic expansion and potential M&A activities, but risks include volatile oil prices, regulatory changes, and environmental concerns.\n\n**2. TECHNICAL ANALYSIS**\n\nDiamondback Energy's stock is currently in a bearish trend, trading above its 20-day moving average. The RSI at 51.3 indicates a neutral momentum, while a bullish MACD cross suggests potential upward movement. The stock's annualized volatility of 26.3% is moderate, indicating a balanced risk profile. Key support levels are around $150, with resistance near $170. The Bollinger Bands suggest the stock is in the middle band area, indicating no immediate breakout pattern. Volume analysis shows steady trading activity, supporting the current price levels. Overall, the technical indicators suggest cautious optimism, with potential for short-term gains if the bullish momentum continues.\n\n**3. MACROECONOMIC CONTEXT**\n\nThe energy sector is experiencing a dynamic shift with increasing regulatory scrutiny and a push towards renewable energy. However, oil and gas remain critical components of the global energy mix. Diamondback Energy is sensitive to macroeconomic factors such as interest rates and inflation, which can impact operational costs and capital expenditures. The company is also exposed to geopolitical risks, including trade relations and regulatory changes, particularly in the U.S. market. Despite these challenges, the sector benefits from a recovering global economy and rising energy demand.\n\n**4. INVESTMENT RECOMMENDATION**\n\nRecommendation: Hold (Conviction Level: 6)\n\nDiamondback Energy offers a balanced investment profile with strong revenue growth and reasonable valuation metrics. Key supporting points include its strategic position in the Permian Basin, robust profitability margins, and potential for organic growth. However, the earnings decline and liquidity concerns warrant caution. The stock's moderate volatility and technical indicators suggest potential for short-term gains, but long-term prospects are contingent on oil price stability and regulatory developments. Risk-adjusted return expectations are moderate, with a 12-18 month horizon. Major risks include oil price volatility and regulatory changes, which can be mitigated through diversification and hedging strategies. For portfolio positioning, Diamondback Energy is suitable as a core holding for investors seeking exposure to the energy sector with a focus on income and growth potential.",
+  "technical_summary": "Current Price: $161.56 (+1.77%)\nTrend: Bearish, price above 20-day MA\nRSI: 51.3 (Neutral)\nMACD: Bullish Cross\nAnnualized Volatility: 26.3% (Medium)\nBollinger Bands: Middle band area"
+}

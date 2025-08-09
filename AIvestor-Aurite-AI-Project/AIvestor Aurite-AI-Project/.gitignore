@@ -1,0 +1,88 @@
+# Environment and Secret Files
+.env
+*.env
+.env.local
+.env.production
+.env.staging
+.env.test
+
+# Python Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python Cache Files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# PyCharm IDE
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Analysis Output Files (Optional - comment out if you want to include sample outputs)
+# analysis_outputs/*.json
+# analysis_outputs/*.md
+
+# Machine Learning Models (Large files - use Git LFS if needed)
+# models/*.pkl
+
+# Temporary Files
+*.tmp
+*.temp
+*~
+
+# API Keys and Sensitive Data
+predictions.json
+*_config.json
+api_keys.json
+
+# Local Development
+local_settings.py
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.dmypy.json
+dmypy.json

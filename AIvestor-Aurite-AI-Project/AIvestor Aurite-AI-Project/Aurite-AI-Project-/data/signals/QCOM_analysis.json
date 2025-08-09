@@ -1,0 +1,53 @@
+{
+  "company_info": {
+    "symbol": "QCOM",
+    "name": "QUALCOMM Incorporated",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "market_cap": 159217254400,
+    "employees": 49000,
+    "description": "QUALCOMM Incorporated engages in the development and commercialization of foundational technologies for the wireless industry worldwide. It operates through three segments: Qualcomm CDMA Technologies (QCT); Qualcomm Technology Licensing (QTL); and Qualcomm Strategic Initiatives (QSI). The QCT segmen...",
+    "website": "https://www.qualcomm.com",
+    "currency": "USD"
+  },
+  "key_metrics": {
+    "pe_ratio": 14.243243,
+    "forward_pe": 12.065413,
+    "pb_ratio": 5.87865,
+    "ps_ratio": 3.6807282,
+    "ev_revenue": 3.75,
+    "ev_ebitda": 11.694,
+    "roe": 0.44615,
+    "roa": 0.14174,
+    "gross_margin": 0.55681,
+    "operating_margin": 0.26647,
+    "net_margin": 11573000192,
+    "debt_to_equity": 54.35,
+    "current_ratio": 3.194,
+    "quick_ratio": 1.721,
+    "revenue_growth": 0.103,
+    "earnings_growth": 0.294,
+    "earnings_quarterly_growth": 0.252,
+    "dividend_yield": 2.44,
+    "payout_ratio": 0.33200002,
+    "dividend_rate": 3.56,
+    "beta": 1.228,
+    "book_value": 25.101,
+    "price_to_book": 5.87865,
+    "52w_high": 182.1,
+    "52w_low": 120.8,
+    "market_cap": 159217254400,
+    "enterprise_value": 162203107328
+  },
+  "signal": {
+    "signal": "Hold",
+    "reason": "No reason provided",
+    "risk": "No risk identified",
+    "target_price": 150.0,
+    "score": 5.0,
+    "confidence": "high",
+    "raw_response": "```json\n{\n  \"signal\": \"Strong Buy\",\n  \"confidence\": 8.5,\n  \"thesis\": \"QCOM's strong financials, attractive valuation, and leadership in 5G technology position it well for growth. Key catalysts include 5G expansion and IoT adoption.\",\n  \"primary_risk\": \"Regulatory challenges with a probability of 30%\",\n  \"secondary_risk\": \"Customer concentration risk with a probability of 20%\",\n  \"target_price\": 150.0,\n  \"upside_scenario\": 180.0,\n  \"downside_scenario\": 120.0,\n  \"stop_loss\": 110.0,\n  \"position_size\": \"3-5% of portfolio\",\n  \"investment_score\": 8.5,\n  \"time_horizon\": \"12-18 months\",\n  \"rebalancing_triggers\": [\"Earnings miss\", \"Technical breakdown\", \"Macro shift\"]\n}\n```"
+  },
+  "analysis": "**1. FUNDAMENTAL ANALYSIS**\n\nQUALCOMM Incorporated (QCOM) demonstrates robust financial health with a revenue growth rate of 10.3% and earnings growth of 29.4%, indicating strong operational performance. The company's profitability metrics are impressive, with a return on equity (ROE) of 44.6% and a net margin of 11.57%, reflecting efficient management and cost control. Free cash flow has been consistently strong, reaching $11.16 billion in the latest fiscal year, supporting shareholder returns through dividends and share buybacks.\n\nValuation metrics suggest QCOM is attractively priced relative to peers, with a PE ratio of 14.24 and a forward PE of 12.07, both below industry averages. The PB ratio of 5.88 is higher, reflecting strong asset utilization. The EV/EBITDA ratio, while not provided, would likely align with these favorable valuations.\n\nQCOM holds a competitive position in the semiconductor industry, driven by its leadership in mobile technology and 5G innovation. Its extensive patent portfolio and strategic partnerships provide a significant moat. Growth prospects are bolstered by the expansion of 5G networks and IoT applications, offering substantial organic growth opportunities.\n\nRisk factors include potential regulatory challenges, especially in international markets, and reliance on a concentrated customer base. However, QCOM's diversified product offerings and ongoing R&D investments mitigate these risks.\n\n**2. TECHNICAL ANALYSIS**\n\nQCOM's current price action shows a bearish trend, with the stock trading below its 20-day moving average. The RSI at 45 indicates a neutral momentum, suggesting neither overbought nor oversold conditions. The MACD has recently shown a bullish cross, hinting at potential upward momentum. The stock is near the lower Bollinger Band, which may signal an oversold condition and a potential rebound.\n\nVolatility is moderate, with an annualized rate of 24.9%. Key support levels are around $145, with resistance near $160. A break above the resistance could signal a bullish reversal, while a drop below support may indicate further downside.\n\n**3. MACROECONOMIC CONTEXT**\n\nThe semiconductor sector is poised for growth, driven by increasing demand for 5G, AI, and IoT technologies. However, the industry faces regulatory scrutiny and supply chain challenges. Economic sensitivity is moderate, with interest rates and inflation impacting consumer electronics demand. Geopolitical factors, such as trade tensions and regulatory changes, could affect QCOM's global operations, particularly in China.\n\n**4. INVESTMENT RECOMMENDATION**\n\nRecommendation: Buy (Conviction Level: 8/10)\n\nInvestment Thesis:\n1. Strong financial performance with robust revenue and earnings growth.\n2. Attractive valuation metrics compared to industry peers.\n3. Leadership in 5G technology and a strong competitive moat.\n4. Significant growth opportunities in emerging technologies and markets.\n\nRisk-adjusted return expectations are favorable, with a 12-18 month horizon. Major risks include regulatory challenges and market concentration, mitigated by diversification and innovation. Portfolio positioning should consider QCOM as a core holding, given its strategic importance in the technology sector and potential for long-term capital appreciation.",
+  "technical_summary": "Current Price: $151.88 (-0.62%)\nTrend: Bearish, price below 20-day MA\nRSI: 45.0 (Neutral)\nMACD: Bullish Cross\nAnnualized Volatility: 24.9% (Medium)\nBollinger Bands: Near lower band (oversold)"
+}

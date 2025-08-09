@@ -1,0 +1,51 @@
+{
+  "company_info": {
+    "symbol": "ABNB",
+    "name": "Airbnb, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Travel Services",
+    "market_cap": 80546291712,
+    "employees": 7300,
+    "description": "Airbnb, Inc., together with its subsidiaries, operates a platform that enables hosts to offer stays and experiences to guests worldwide. Its marketplace connects hosts and guests online or through mobile devices to book spaces and experiences. It also offers gift cards. The company was formerly know...",
+    "website": "https://www.airbnb.com",
+    "currency": "USD"
+  },
+  "key_metrics": {
+    "pe_ratio": 33.121826,
+    "forward_pe": 29.0,
+    "pb_ratio": 10.17782,
+    "ps_ratio": 7.171144,
+    "ev_revenue": 6.321,
+    "ev_ebitda": 28.041,
+    "roe": 0.3206,
+    "roa": 0.06276,
+    "gross_margin": 0.83048,
+    "operating_margin": 0.01673,
+    "net_margin": 2537999872,
+    "debt_to_equity": 28.726,
+    "current_ratio": 1.273,
+    "quick_ratio": 0.697,
+    "revenue_growth": 0.061,
+    "earnings_growth": -0.395,
+    "earnings_quarterly_growth": -0.417,
+    "payout_ratio": 0.0,
+    "beta": 1.133,
+    "book_value": 12.822,
+    "price_to_book": 10.17782,
+    "52w_high": 163.93,
+    "52w_low": 99.88,
+    "market_cap": 80546291712,
+    "enterprise_value": 71000973312
+  },
+  "signal": {
+    "signal": "Hold",
+    "reason": "Analysis failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-sk-pr******",
+    "risk": "Parse failed, check raw response",
+    "target_price": null,
+    "score": 5.0,
+    "confidence": "low",
+    "raw_response": "Analysis failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-sk-pr***********************************************************************************************************************************************************5WwA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
+  },
+  "analysis": "Analysis failed: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-sk-pr***********************************************************************************************************************************************************5WwA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+  "technical_summary": "Current Price: $131.41 (-0.30%)\nTrend: Bearish, price below 20-day MA\nRSI: 36.8 (Neutral)\nMACD: Bearish Cross\nAnnualized Volatility: 28.7% (Medium)\nBollinger Bands: Middle band area"
+}

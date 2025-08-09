@@ -1,0 +1,353 @@
+{
+  "report": "\n\ud83d\udcca ENHANCED MACRO ANALYSIS REPORT\n==================================\n\n\ud83c\udfaf PREDICTION SUMMARY\n\n\ud83d\udcc8 TREND ANALYSIS\n\nvix_trend_slope_4q:\n  Current: 0.000\n  Average: 0.000\n  Direction: increasing\n  Strength: 0.00\n\nvix_trend_slope_8q:\n  Current: 0.000\n  Average: 0.000\n  Direction: increasing\n  Strength: 0.00\n\nunemployment_rate_trend_slope_4q:\n  Current: -0.198\n  Average: 0.018\n  Direction: decreasing\n  Strength: 0.62\n\nunemployment_rate_trend_slope_8q:\n  Current: -0.087\n  Average: 0.020\n  Direction: decreasing\n  Strength: 0.47\n\nfed_funds_rate_trend_slope_4q:\n  Current: 0.004\n  Average: 0.026\n  Direction: decreasing\n  Strength: 0.11\n\nfed_funds_rate_trend_slope_8q:\n  Current: 0.095\n  Average: 0.025\n  Direction: increasing\n  Strength: 0.54\n\ntreasury_10y_trend_slope_4q:\n  Current: 0.025\n  Average: 0.001\n  Direction: increasing\n  Strength: 1.63\n\ntreasury_10y_trend_slope_8q:\n  Current: 0.051\n  Average: 0.000\n  Direction: increasing\n  Strength: 5.52\n\nreal_gdp_trend_slope_4q:\n  Current: 63.235\n  Average: 19.456\n  Direction: increasing\n  Strength: 1.64\n\nreal_gdp_trend_slope_8q:\n  Current: 57.363\n  Average: 18.289\n  Direction: increasing\n  Strength: 1.95\n\ntime_trend:\n  Current: 1.000\n  Average: 0.500\n  Direction: increasing\n  Strength: 1.71\n\nvix_trend_4q:\n  Current: 0.000\n  Average: 0.000\n  Direction: increasing\n  Strength: 0.00\n\nunemployment_rate_trend_4q:\n  Current: -0.198\n  Average: 0.018\n  Direction: decreasing\n  Strength: 0.62\n\n\ud83c\udf0a VOLATILITY ANALYSIS\n\nvix:\n  Current Level: 12.230\n  Regime: normal\n  Percentile Range: 12.230 - 12.230\n\nvix_ma_2q:\n  Current Level: 12.230\n  Regime: normal\n  Percentile Range: 12.230 - 12.230\n\nvix_ma_4q:\n  Current Level: 12.230\n  Regime: normal\n  Percentile Range: 12.230 - 12.230\n\nvix_momentum_1q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_momentum_2q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_volatility_2q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_volatility_4q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_above_ma_2q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_above_ma_4q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_unemployment_interaction:\n  Current Level: 61.053\n  Regime: normal\n  Percentile Range: 41.582 - 67.466\n\nvix_lag_1q:\n  Current Level: 12.230\n  Regime: normal\n  Percentile Range: 12.230 - 12.230\n\nvix_lag_2q:\n  Current Level: 12.230\n  Regime: normal\n  Percentile Range: 12.230 - 12.230\n\nvix_lag_3q:\n  Current Level: 12.230\n  Regime: normal\n  Percentile Range: 12.230 - 12.230\n\nvix_lag1_change:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_lag2_change:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_ar1:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_mean_reversion:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_ma_8q:\n  Current Level: 12.230\n  Regime: normal\n  Percentile Range: 12.230 - 12.230\n\nvix_ma_12q:\n  Current Level: 12.230\n  Regime: normal\n  Percentile Range: 12.230 - 12.230\n\nvix_above_ma_8q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_above_ma_12q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_trend_slope_4q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_trend_slope_8q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_acceleration:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nunemployment_rate_lag1q_x_vix:\n  Current Level: 63.615\n  Regime: normal\n  Percentile Range: 41.582 - 67.466\n\nunemployment_rate_vix_direction_agreement:\n  Current Level: 1.000\n  Regime: normal\n  Percentile Range: 0.000 - 1.000\n\nvix_diff_1q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_diff_2q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_diff2_1q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_pct_change_1q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_pct_change_4q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_zscore:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_regime_change:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_trend_4q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\n\ud83d\udd04 CYCLICAL ANALYSIS\n\nbusiness_cycle_6y:\n  Current Phase: 1.000\n  Phase Description: Peak\n  Cycle Strength: 1.00\n\nbusiness_cycle_8y:\n  Current Phase: 0.924\n  Phase Description: Peak\n  Cycle Strength: 0.92\n\nquarterly_cycle:\n  Current Phase: 0.000\n  Phase Description: Expansion\n  Cycle Strength: 0.00\n\nrecession_indicator:\n  Current Phase: 0.000\n  Phase Description: Expansion\n  Cycle Strength: 0.00\n\nbusiness_cycle:\n  Current Phase: 1.000\n  Phase Description: Peak\n  Cycle Strength: 1.00\n\n\ud83d\udd17 CORRELATION ANALYSIS\n\nfed_funds_rate vs unemployment_rate:\n  Correlation: 0.484\n  Strength: moderate\n\ntreasury_10y vs unemployment_rate:\n  Correlation: -0.106\n  Strength: weak\n\nfed_funds_rate vs treasury_10y:\n  Correlation: -0.026\n  Strength: weak\n\n\ud83c\udfaf FEATURE IMPORTANCE\n",
+  "signals": {
+    "analysis_timestamp": "2025-08-08T23:36:16.405180",
+    "analysis_type": "enhanced_macro_analysis",
+    "macro_prediction": {
+      "direction": "neutral",
+      "confidence": 0.5,
+      "probability": 0.5,
+      "target_quarter": "N/A",
+      "model_used": "Enhanced Macro Model"
+    },
+    "economic_environment": {
+      "volatility_regime": "normal",
+      "trend_direction": "upward",
+      "cycle_phase": "expansion",
+      "market_stress": "normal"
+    },
+    "asset_class_signals": {
+      "stocks": {
+        "recommendation": "underweight",
+        "confidence": 0.5,
+        "reasoning": "Macro model predicts neutral environment"
+      },
+      "bonds": {
+        "recommendation": "neutral",
+        "confidence": 0.6,
+        "reasoning": "Bond allocation based on interest rate environment"
+      },
+      "gold": {
+        "recommendation": "neutral",
+        "confidence": 0.6,
+        "reasoning": "Gold allocation based on inflation and volatility"
+      }
+    },
+    "feature_insights": {
+      "top_features": [],
+      "trend_analysis": {
+        "vix_trend_slope_4q": {
+          "current_value": 1.533621229439139e-15,
+          "average_value": 1.4595570913812098e-15,
+          "trend_direction": "increasing",
+          "trend_strength": 7.406413437226636e-09
+        },
+        "vix_trend_slope_8q": {
+          "current_value": 6.978317259283588e-16,
+          "average_value": 6.574524024788052e-16,
+          "trend_direction": "increasing",
+          "trend_strength": 4.0379322316272294e-09
+        },
+        "unemployment_rate_trend_slope_4q": {
+          "current_value": -0.19789874801815036,
+          "average_value": 0.01765855773941602,
+          "trend_direction": "decreasing",
+          "trend_strength": 0.6171205684870797
+        },
+        "unemployment_rate_trend_slope_8q": {
+          "current_value": -0.08721712401749726,
+          "average_value": 0.020169923175918873,
+          "trend_direction": "decreasing",
+          "trend_strength": 0.4719327312664792
+        },
+        "fed_funds_rate_trend_slope_4q": {
+          "current_value": 0.0038922202175936537,
+          "average_value": 0.025939238725820477,
+          "trend_direction": "decreasing",
+          "trend_strength": 0.10870407898599266
+        },
+        "fed_funds_rate_trend_slope_8q": {
+          "current_value": 0.0950675047468426,
+          "average_value": 0.024532139554647683,
+          "trend_direction": "increasing",
+          "trend_strength": 0.5356154239332973
+        },
+        "treasury_10y_trend_slope_4q": {
+          "current_value": 0.0253138483407152,
+          "average_value": 0.0012816109360382854,
+          "trend_direction": "increasing",
+          "trend_strength": 1.6271826873922086
+        },
+        "treasury_10y_trend_slope_8q": {
+          "current_value": 0.051405378712981356,
+          "average_value": 0.0002982844108476083,
+          "trend_direction": "increasing",
+          "trend_strength": 5.523607283127235
+        },
+        "real_gdp_trend_slope_4q": {
+          "current_value": 63.23520000000044,
+          "average_value": 19.456282524272137,
+          "trend_direction": "increasing",
+          "trend_strength": 1.6369801675457518
+        },
+        "real_gdp_trend_slope_8q": {
+          "current_value": 57.36346428571464,
+          "average_value": 18.288935275080995,
+          "trend_direction": "increasing",
+          "trend_strength": 1.9520021686039772
+        },
+        "time_trend": {
+          "current_value": 1.0,
+          "average_value": 0.5,
+          "trend_direction": "increasing",
+          "trend_strength": 1.706968482210793
+        },
+        "vix_trend_4q": {
+          "current_value": 1.533621229439139e-15,
+          "average_value": 1.4595570913812098e-15,
+          "trend_direction": "increasing",
+          "trend_strength": 7.406413437226636e-09
+        },
+        "unemployment_rate_trend_4q": {
+          "current_value": -0.19789874801815036,
+          "average_value": 0.01765855773941602,
+          "trend_direction": "decreasing",
+          "trend_strength": 0.6171205684870797
+        }
+      },
+      "volatility_analysis": {
+        "vix": {
+          "current_level": 12.229999542236328,
+          "percentile_25": 12.229999542236328,
+          "percentile_75": 12.229999542236328,
+          "volatility_regime": "normal"
+        },
+        "vix_ma_2q": {
+          "current_level": 12.229999542236328,
+          "percentile_25": 12.229999542236328,
+          "percentile_75": 12.229999542236328,
+          "volatility_regime": "normal"
+        },
+        "vix_ma_4q": {
+          "current_level": 12.229999542236328,
+          "percentile_25": 12.229999542236328,
+          "percentile_75": 12.229999542236328,
+          "volatility_regime": "normal"
+        },
+        "vix_momentum_1q": {
+          "current_level": 0.0,
+          "percentile_25": 0.0,
+          "percentile_75": 0.0,
+          "volatility_regime": "normal"
+        },
+        "vix_momentum_2q": {
+          "current_level": 0.0,
+          "percentile_25": 0.0,
+          "percentile_75": 0.0,
+          "volatility_regime": "normal"
+        },
+        "vix_volatility_2q": {
+          "current_level": 0.0,
+          "percentile_25": 0.0,
+          "percentile_75": 0.0,
+          "volatility_regime": "normal"
+        },
+        "vix_volatility_4q": {
+          "current_level": 0.0,
+          "percentile_25": 0.0,
+          "percentile_75": 0.0,
+          "volatility_regime": "normal"
+        },
+        "vix_above_ma_2q": {
+          "current_level": "0",
+          "percentile_25": 0.0,
+          "percentile_75": 0.0,
+          "volatility_regime": "normal"
+        },
+        "vix_above_ma_4q": {
+          "current_level": "0",
+          "percentile_25": 0.0,
+          "percentile_75": 0.0,
+          "volatility_regime": "normal"
+        },
+        "vix_unemployment_interaction": {
+          "current_level": 61.05293422275119,
+          "percentile_25": 41.58199844360352,
+          "percentile_75": 67.4657885195604,
+          "volatility_regime": "normal"
+        },
+        "vix_lag_1q": {
+          "current_level": 12.229999542236328,
+          "percentile_25": 12.229999542236328,
+          "percentile_75": 12.229999542236328,
+          "volatility_regime": "normal"
+        },
+        "vix_lag_2q": {
+          "current_level": 12.229999542236328,
+          "percentile_25": 12.229999542236328,
+          "percentile_75": 12.229999542236328,
+          "volatility_regime": "normal"
+        },
+        "vix_lag_3q": {
+          "current_level": 12.229999542236328,
+          "percentile_25": 12.229999542236328,
+          "percentile_75": 12.229999542236328,
+          "volatility_regime": "normal"
+        },
+        "vix_lag1_change": {
+          "current_level": 0.0,
+          "percentile_25": 0.0,
+          "percentile_75": 0.0,
+          "volatility_regime": "normal"
+        },
+        "vix_lag2_change": {
+          "current_level": 0.0,
+          "percentile_25": 0.0,
+          "percentile_75": 0.0,
+          "volatility_regime": "normal"
+        },
+        "vix_ar1": {
+          "current_level": 0.0,
+          "percentile_25": 0.0,
+          "percentile_75": 0.0,
+          "volatility_regime": "normal"
+        },
+        "vix_mean_reversion": {
+          "current_level": 0.0,
+          "percentile_25": 0.0,
+          "percentile_75": 0.0,
+          "volatility_regime": "normal"
+        },
+        "vix_ma_8q": {
+          "current_level": 12.229999542236328,
+          "percentile_25": 12.229999542236328,
+          "percentile_75": 12.229999542236328,
+          "volatility_regime": "normal"
+        },
+        "vix_ma_12q": {
+          "current_level": 12.229999542236328,
+          "percentile_25": 12.229999542236328,
+          "percentile_75": 12.229999542236328,
+          "volatility_regime": "normal"
+        },
+        "vix_above_ma_8q": {
+          "current_level": "0",
+          "percentile_25": 0.0,
+          "percentile_75": 0.0,
+          "volatility_regime": "normal"
+        },
+        "vix_above_ma_12q": {
+          "current_level": "0",
+          "percentile_25": 0.0,
+          "percentile_75": 0.0,
+          "volatility_regime": "normal"
+        },
+        "vix_trend_slope_4q": {
+          "current_level": 1.533621229439139e-15,
+          "percentile_25": 1.533621229439139e-15,
+          "percentile_75": 1.533621229439139e-15,
+          "volatility_regime": "normal"
+        },
+        "vix_trend_slope_8q": {
+          "current_level": 6.978317259283588e-16,
+          "percentile_25": 6.978317259283588e-16,
+          "percentile_75": 6.978317259283588e-16,
+          "volatility_regime": "normal"
+        },
+        "vix_acceleration": {
+          "current_level": 0.0,
+          "percentile_25": 0.0,
+          "percentile_75": 0.0,
+          "volatility_regime": "normal"
+        },
+        "unemployment_rate_lag1q_x_vix": {
+          "current_level": 63.614813003540036,
+          "percentile_25": 41.58199844360352,
+          "percentile_75": 67.4657885195604,
+          "volatility_regime": "normal"
+        },
+        "unemployment_rate_vix_direction_agreement": {
+          "current_level": "1",
+          "percentile_25": 0.0,
+          "percentile_75": 1.0,
+          "volatility_regime": "normal"
+        },
+        "vix_diff_1q": {
+          "current_level": 0.0,
+          "percentile_25": 0.0,
+          "percentile_75": 0.0,
+          "volatility_regime": "normal"
+        },
+        "vix_diff_2q": {
+          "current_level": 0.0,
+          "percentile_25": 0.0,
+          "percentile_75": 0.0,
+          "volatility_regime": "normal"
+        },
+        "vix_diff2_1q": {
+          "current_level": 0.0,
+          "percentile_25": 0.0,
+          "percentile_75": 0.0,
+          "volatility_regime": "normal"
+        },
+        "vix_pct_change_1q": {
+          "current_level": 0.0,
+          "percentile_25": 0.0,
+          "percentile_75": 0.0,
+          "volatility_regime": "normal"
+        },
+        "vix_pct_change_4q": {
+          "current_level": 0.0,
+          "percentile_25": 0.0,
+          "percentile_75": 0.0,
+          "volatility_regime": "normal"
+        },
+        "vix_zscore": {
+          "current_level": 0.0,
+          "percentile_25": 0.0,
+          "percentile_75": 0.0,
+          "volatility_regime": "normal"
+        },
+        "vix_regime_change": {
+          "current_level": "0",
+          "percentile_25": 0.0,
+          "percentile_75": 0.0,
+          "volatility_regime": "normal"
+        },
+        "vix_trend_4q": {
+          "current_level": 1.533621229439139e-15,
+          "percentile_25": 1.533621229439139e-15,
+          "percentile_75": 1.533621229439139e-15,
+          "volatility_regime": "normal"
+        }
+      },
+      "correlation_insights": {
+        "top_correlations": [
+          {
+            "pair": "fed_funds_rate vs unemployment_rate",
+            "correlation": 0.48438112514483467,
+            "strength": "moderate"
+          },
+          {
+            "pair": "treasury_10y vs unemployment_rate",
+            "correlation": -0.10618680840396554,
+            "strength": "weak"
+          },
+          {
+            "pair": "fed_funds_rate vs treasury_10y",
+            "correlation": -0.026429488928105208,
+            "strength": "weak"
+          }
+        ]
+      }
+    },
+    "risk_factors": [
+      "Normal market conditions",
+      "Standard macro uncertainties"
+    ],
+    "data_quality": {
+      "indicators_available": 13,
+      "analysis_completeness": 0.8333333333333334
+    }
+  }
+}

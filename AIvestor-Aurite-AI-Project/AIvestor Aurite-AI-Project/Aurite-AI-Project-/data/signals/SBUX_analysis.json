@@ -1,0 +1,51 @@
+{
+  "company_info": {
+    "symbol": "SBUX",
+    "name": "Starbucks Corporation",
+    "sector": "Consumer Cyclical",
+    "industry": "Restaurants",
+    "market_cap": 104712806400,
+    "employees": 361000,
+    "description": "Starbucks Corporation, together with its subsidiaries, operates as a roaster, marketer, and retailer of coffee worldwide. The company operates through three segments: North America, International, and Channel Development. Its stores offer coffee, tea, and other beverages, roasted whole beans and gro...",
+    "website": "https://www.starbucks.com",
+    "currency": "USD"
+  },
+  "key_metrics": {
+    "pe_ratio": 39.87879,
+    "forward_pe": 24.763441,
+    "pb_ratio": -13.585017,
+    "ps_ratio": 2.854042,
+    "ev_revenue": 3.458,
+    "ev_ebitda": 22.751,
+    "roa": 0.07566,
+    "gross_margin": 0.23739,
+    "operating_margin": 0.0951,
+    "net_margin": 2632399872,
+    "current_ratio": 0.756,
+    "quick_ratio": 0.516,
+    "revenue_growth": 0.038,
+    "earnings_growth": -0.473,
+    "earnings_quarterly_growth": -0.471,
+    "dividend_yield": 2.68,
+    "payout_ratio": 1.039,
+    "dividend_rate": 2.44,
+    "beta": 1.004,
+    "book_value": -6.781,
+    "price_to_book": -13.585017,
+    "52w_high": 117.46,
+    "52w_low": 74.75,
+    "market_cap": 104712806400,
+    "enterprise_value": 126870536192
+  },
+  "signal": {
+    "signal": "Hold",
+    "reason": "No reason provided",
+    "risk": "No risk identified",
+    "target_price": 95.0,
+    "score": 5.0,
+    "confidence": "high",
+    "raw_response": "```json\n{\n  \"signal\": \"Hold\",\n  \"confidence\": 6,\n  \"thesis\": \"Starbucks' strong brand and global presence support long-term growth, but high valuation and declining earnings pose risks.\",\n  \"primary_risk\": \"Competitive pressures with a probability of 60%\",\n  \"secondary_risk\": \"Regulatory changes with a probability of 40%\",\n  \"target_price\": 95.0,\n  \"upside_scenario\": 110.0,\n  \"downside_scenario\": 80.0,\n  \"stop_loss\": 82.0,\n  \"position_size\": \"2-3% of portfolio\",\n  \"investment_score\": 6.5,\n  \"time_horizon\": \"12-18 months\",\n  \"rebalancing_triggers\": [\"Earnings miss\", \"Technical breakdown\", \"Macro shift\"]\n}\n```"
+  },
+  "analysis": "**1. FUNDAMENTAL ANALYSIS**\n\nStarbucks Corporation (SBUX) demonstrates moderate financial health with a revenue growth of 3.8%, but faces challenges with a significant earnings decline of 47.3%. The company's profitability metrics, such as a gross margin of 23.7% and operating margin of 9.51%, indicate operational efficiency, though net margins appear inflated due to potential data errors. Cash flow analysis reveals a declining free cash flow, from $4.52 billion in 2021 to $3.32 billion in 2024, suggesting pressure on liquidity. Valuation metrics show a high trailing PE ratio of 39.88, indicating potential overvaluation compared to industry peers, while a negative PB ratio suggests concerns over tangible book value. Starbucks maintains a strong competitive position with a robust brand and global market presence, though it faces risks from market saturation and competition. Growth prospects hinge on international expansion and digital innovation, but regulatory and market concentration risks persist.\n\n**2. TECHNICAL ANALYSIS**\n\nStarbucks' stock is currently in a bullish trend, trading below its 20-day moving average, indicating potential upward momentum. The RSI at 31.2 suggests the stock is nearing oversold territory, which could precede a price rebound. However, the MACD indicates a bearish cross, signaling potential short-term weakness. The stock's annualized volatility of 24.9% is moderate, suggesting a balanced risk profile. Key support levels are around $85, with resistance near $95. The market structure does not show clear Elliott Wave patterns or Fibonacci retracements, but the Bollinger Bands suggest consolidation in the middle band area, indicating potential for a breakout.\n\n**3. MACROECONOMIC CONTEXT**\n\nThe consumer cyclical sector, particularly restaurants, is experiencing a recovery phase post-pandemic, driven by increased consumer spending and digital transformation. However, Starbucks is sensitive to economic fluctuations, with interest rates and inflation impacting consumer discretionary spending. The company is exposed to geopolitical risks, including trade relations and regulatory changes, particularly in key markets like China. The regulatory environment is stable but requires vigilance due to potential changes in labor laws and environmental regulations.\n\n**4. INVESTMENT RECOMMENDATION**\n\nRecommendation: Hold (Conviction Level: 6)\n\nStarbucks presents a mixed investment case. The core thesis is supported by its strong brand equity, global footprint, and digital innovation initiatives. However, the high valuation, declining earnings, and liquidity pressures warrant caution. The risk-adjusted return expectation is moderate, with a 12-18 month horizon for potential recovery as economic conditions stabilize. Major risks include competitive pressures and regulatory changes, which can be mitigated through diversification and monitoring macroeconomic indicators. Portfolio positioning should be as a core holding for long-term growth, with a focus on monitoring key financial metrics and market conditions.",
+  "technical_summary": "Current Price: $90.12 (+0.74%)\nTrend: Bullish, price below 20-day MA\nRSI: 31.2 (Neutral)\nMACD: Bearish Cross\nAnnualized Volatility: 24.9% (Medium)\nBollinger Bands: Middle band area"
+}

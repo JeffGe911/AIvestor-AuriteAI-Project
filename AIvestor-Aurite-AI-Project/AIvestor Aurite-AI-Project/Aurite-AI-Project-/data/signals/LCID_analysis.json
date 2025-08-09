@@ -1,0 +1,47 @@
+{
+  "company_info": {
+    "symbol": "LCID",
+    "name": "Lucid Group, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Manufacturers",
+    "market_cap": 6544403968,
+    "employees": 6800,
+    "description": "Lucid Group, Inc., a technology company, designs, engineers, manufactures, and sells electric vehicles (EV), EV powertrains, and battery systems. It also designs and develops proprietary software in-house for Lucid vehicles. The company sells vehicles directly to consumers through its retail sales n...",
+    "website": "https://www.lucidmotors.com",
+    "currency": "USD"
+  },
+  "key_metrics": {
+    "forward_pe": -2.4204547,
+    "pb_ratio": 2.716837,
+    "ps_ratio": 7.0446367,
+    "ev_revenue": 8.535,
+    "ev_ebitda": -3.016,
+    "roe": -0.54395,
+    "roa": -0.21927999,
+    "gross_margin": -0.99263,
+    "operating_margin": -3.0954,
+    "net_margin": -2228920064,
+    "debt_to_equity": 52.039,
+    "current_ratio": 2.576,
+    "quick_ratio": 1.924,
+    "revenue_growth": 0.293,
+    "payout_ratio": 0.0,
+    "book_value": 0.784,
+    "price_to_book": 2.716837,
+    "52w_high": 4.43,
+    "52w_low": 1.93,
+    "market_cap": 6544403968,
+    "enterprise_value": 7929226752
+  },
+  "signal": {
+    "signal": "Hold",
+    "reason": "No reason provided",
+    "risk": "No risk identified",
+    "target_price": 3.5,
+    "score": 5.0,
+    "confidence": "high",
+    "raw_response": "```json\n{\n  \"signal\": \"Hold\",\n  \"confidence\": 5,\n  \"thesis\": \"Lucid's potential in luxury EVs is promising, but high cash burn and execution risks necessitate caution. Key catalysts include production scaling and market expansion.\",\n  \"primary_risk\": \"Continued financial losses with a probability of 70%\",\n  \"secondary_risk\": \"Regulatory changes impacting EV incentives with a probability of 50%\",\n  \"target_price\": 3.50,\n  \"upside_scenario\": 4.50,\n  \"downside_scenario\": 2.00,\n  \"stop_loss\": 2.30,\n  \"position_size\": \"1-2% of portfolio\",\n  \"investment_score\": 4.5,\n  \"time_horizon\": \"12-24 months\",\n  \"rebalancing_triggers\": [\"Significant cash flow improvement\", \"Production milestone achievement\", \"Major regulatory change\"]\n}\n```"
+  },
+  "analysis": "**1. FUNDAMENTAL ANALYSIS**\n\nLucid Group, Inc. (LCID) presents a challenging financial picture. Despite a revenue growth rate of 29.3%, the company struggles with profitability, evidenced by negative ROE (-54.4%) and ROA (-21.9%). The gross margin is alarmingly negative at -99.3%, indicating high production costs relative to revenue. Cash flow analysis reveals significant negative free cash flow, suggesting ongoing cash burn and reliance on external financing. Valuation metrics show a forward P/E of -2.42, indicating expected losses, while the P/B ratio of 2.72 suggests a premium to book value, potentially due to growth expectations. Lucid's competitive position is precarious; while it has a strong brand in the luxury EV market, it faces intense competition from established automakers and new entrants. Growth prospects hinge on scaling production and expanding market share, but execution risks are high. Key risks include high debt levels (debt-to-equity of 52.04), regulatory hurdles, and market concentration in the luxury segment.\n\n**2. TECHNICAL ANALYSIS**\n\nLucid's stock is in a bearish trend, with the current price at $3.02, below the 20-day moving average. The RSI at 69.6 suggests the stock is nearing overbought territory, while a bullish MACD cross indicates potential upward momentum. However, high annualized volatility (91.4%) implies significant price swings, increasing risk. Bollinger Bands show the price near the middle band, indicating potential consolidation. Key support is around $2.50, with resistance at $3.50. The market structure lacks clear Elliott Wave patterns, but Fibonacci retracement levels could provide future support/resistance points.\n\n**3. MACROECONOMIC CONTEXT**\n\nThe auto industry is undergoing significant transformation with the shift to electric vehicles (EVs). Regulatory support for EVs is strong, but technological disruption and supply chain challenges persist. Lucid's luxury positioning makes it sensitive to economic cycles, with interest rates and inflation impacting consumer spending. Geopolitical factors, such as trade relations and regulatory changes, could affect supply chains and market access. The sector's outlook is positive long-term, but near-term volatility is expected.\n\n**4. INVESTMENT RECOMMENDATION**\n\nRecommendation: Hold (Conviction Level: 5)\n\nLucid Group's investment thesis is based on its potential in the luxury EV market, supported by strong brand recognition and innovative technology. However, significant execution risks, high cash burn, and competitive pressures warrant caution. The stock's high volatility suggests potential for short-term trading opportunities, but long-term investors should be prepared for significant fluctuations. Risk-adjusted returns are uncertain, with a 2-3 year horizon needed for potential profitability. Major risks include continued losses, regulatory changes, and competitive threats. Mitigation strategies include monitoring cash flow improvements and production scaling. Portfolio positioning should be as a satellite allocation, given the speculative nature of the investment.",
+  "technical_summary": "Current Price: $3.02 (-4.13%)\nTrend: Bearish, price above 20-day MA\nRSI: 69.6 (Neutral)\nMACD: Bullish Cross\nAnnualized Volatility: 91.4% (High)\nBollinger Bands: Middle band area"
+}

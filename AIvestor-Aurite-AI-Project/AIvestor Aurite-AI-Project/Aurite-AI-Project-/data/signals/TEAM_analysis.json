@@ -1,0 +1,47 @@
+{
+  "company_info": {
+    "symbol": "TEAM",
+    "name": "Atlassian Corporation",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "market_cap": 44116758528,
+    "employees": 0,
+    "description": "Atlassian Corporation, through its subsidiaries, designs, develops, licenses, and maintains various software products worldwide. Its product portfolio includes Jira, a project management system that connects technical and business teams so they can better plan, organize, track, and manage their work...",
+    "website": "https://www.atlassian.com",
+    "currency": "USD"
+  },
+  "key_metrics": {
+    "forward_pe": 40.89051,
+    "pb_ratio": 32.83063,
+    "ps_ratio": 8.459096,
+    "ev_revenue": 8.294,
+    "ev_ebitda": -1137.79,
+    "roe": -0.21584,
+    "roa": -0.014479999,
+    "gross_margin": 0.82842004,
+    "operating_margin": -0.020569999,
+    "net_margin": -256687008,
+    "debt_to_equity": 92.099,
+    "current_ratio": 1.223,
+    "quick_ratio": 1.168,
+    "revenue_growth": 0.223,
+    "payout_ratio": 0.0,
+    "book_value": 5.119,
+    "price_to_book": 32.83063,
+    "52w_high": 326.0,
+    "52w_low": 137.27,
+    "market_cap": 44116758528,
+    "enterprise_value": 43255353344
+  },
+  "signal": {
+    "signal": "Hold",
+    "reason": "No reason provided",
+    "risk": "No risk identified",
+    "target_price": 250.0,
+    "score": 5.0,
+    "confidence": "high",
+    "raw_response": "```json\n{\n  \"signal\": \"Hold\",\n  \"confidence\": 6,\n  \"thesis\": \"Atlassian's strong revenue growth and cash flow are offset by profitability issues and high valuation. Key catalysts include market dominance and product innovation.\",\n  \"primary_risk\": \"High debt levels with a probability of 40%\",\n  \"secondary_risk\": \"Regulatory challenges with a probability of 30%\",\n  \"target_price\": 250.0,\n  \"upside_scenario\": 280.0,\n  \"downside_scenario\": 220.0,\n  \"stop_loss\": 230.0,\n  \"position_size\": \"2-4% of portfolio\",\n  \"investment_score\": 6.5,\n  \"time_horizon\": \"12-18 months\",\n  \"rebalancing_triggers\": [\"Earnings miss\", \"Technical breakdown\", \"Macro shift\"]\n}\n```"
+  },
+  "analysis": "**1. FUNDAMENTAL ANALYSIS**\n\nAtlassian Corporation (TEAM) demonstrates robust revenue growth at 22.3%, indicative of strong demand for its software solutions. However, profitability metrics are concerning, with negative ROE (-21.58%) and operating margins (-2.06%), reflecting challenges in cost management and scalability. Despite a high gross margin (82.84%), net margins are significantly negative, suggesting inefficiencies or high operational costs. Cash flow is a bright spot, with free cash flow increasing to $1.42 billion, providing liquidity for strategic investments.\n\nValuation metrics reveal a forward P/E of 40.89, above industry averages, suggesting premium pricing based on growth expectations. The P/B ratio of 32.83 and P/S ratio of 8.46 indicate high market expectations, potentially overvalued compared to peers.\n\nAtlassian's competitive position is strong, with a significant market share in collaborative software and a robust ecosystem of products. Its moat is reinforced by high switching costs and a strong brand reputation. Growth prospects are promising, driven by organic expansion and a pipeline of innovative products. However, risks include high debt-to-equity (92.10%), regulatory challenges, and market concentration in tech.\n\n**2. TECHNICAL ANALYSIS**\n\nAtlassian's price action shows a bullish trend, though currently below the 20-day moving average, indicating potential short-term weakness. Key support is near $240, with resistance around $260. The RSI at 34.6 suggests a neutral stance but nearing oversold territory, while a bearish MACD cross indicates potential downward momentum. High annualized volatility (47.7%) suggests significant price swings, with Bollinger Bands near the lower band, hinting at oversold conditions. Volume analysis shows declining interest, which may precede a reversal or consolidation phase.\n\n**3. MACROECONOMIC CONTEXT**\n\nThe technology sector remains robust, driven by digital transformation and cloud adoption. However, regulatory scrutiny and data privacy concerns pose challenges. Atlassian's economic sensitivity is moderate, with interest rate hikes potentially impacting borrowing costs. Inflation could pressure margins, but GDP growth supports demand for tech solutions. Geopolitical factors, such as trade tensions, could affect global operations, but Atlassian's diversified market presence mitigates some risks.\n\n**4. INVESTMENT RECOMMENDATION**\n\nRecommendation: Hold (Conviction Level: 6)\n\nAtlassian's strong revenue growth and cash flow generation are offset by profitability challenges and high valuation metrics. Key supporting points include its dominant market position, innovative product pipeline, and robust cash reserves. However, high debt levels and regulatory risks warrant caution. Risk-adjusted returns are moderate, with a 12-18 month horizon for potential upside as operational efficiencies improve. Major risks include market volatility and regulatory changes, mitigated by strategic diversification and cost management. Portfolio positioning should be as a satellite allocation, given the high-risk, high-reward profile.",
+  "technical_summary": "Current Price: $243.38 (-1.51%)\nTrend: Bullish, price below 20-day MA\nRSI: 34.6 (Neutral)\nMACD: Bearish Cross\nAnnualized Volatility: 47.7% (High)\nBollinger Bands: Near lower band (oversold)"
+}

@@ -1,0 +1,49 @@
+{
+  "company_info": {
+    "symbol": "ORLY",
+    "name": "O'Reilly Automotive, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Parts",
+    "market_cap": 87712808960,
+    "employees": 92810,
+    "description": "O'Reilly Automotive, Inc., together with its subsidiaries, operates as a retailer and supplier of automotive aftermarket parts, tools, supplies, equipment, and accessories in the United States, Puerto Rico, Mexico, and Canada. The company provides new and remanufactured automotive hard parts and mai...",
+    "website": "https://www.oreillyauto.com",
+    "currency": "USD"
+  },
+  "key_metrics": {
+    "pe_ratio": 37.035843,
+    "forward_pe": 2.299288,
+    "pb_ratio": -71.360504,
+    "ps_ratio": 5.122807,
+    "ev_revenue": 5.614,
+    "ev_ebitda": 25.443,
+    "roa": 0.13619,
+    "gross_margin": 0.51397,
+    "operating_margin": 0.20209,
+    "net_margin": 2423674112,
+    "current_ratio": 0.724,
+    "quick_ratio": 0.086,
+    "revenue_growth": 0.059,
+    "earnings_growth": 0.109,
+    "earnings_quarterly_growth": 0.073,
+    "payout_ratio": 0.0,
+    "beta": 0.559,
+    "book_value": -1.448,
+    "price_to_book": -71.360504,
+    "52w_high": 104.86,
+    "52w_low": 73.10667,
+    "market_cap": 87712808960,
+    "enterprise_value": 96121888768
+  },
+  "signal": {
+    "signal": "Hold",
+    "reason": "No reason provided",
+    "risk": "No risk identified",
+    "target_price": 85.0,
+    "score": 5.0,
+    "confidence": "high",
+    "raw_response": "```json\n{\n  \"signal\": \"Hold\",\n  \"confidence\": 6,\n  \"thesis\": \"ORLY's strong market position and profitability support a hold, with growth potential in a stable industry despite high valuation and liquidity concerns.\",\n  \"primary_risk\": \"Economic downturn affecting consumer spending with a probability of 30%\",\n  \"secondary_risk\": \"Regulatory changes impacting operations with a probability of 20%\",\n  \"target_price\": 85.0,\n  \"upside_scenario\": 95.0,\n  \"downside_scenario\": 75.0,\n  \"stop_loss\": 70.0,\n  \"position_size\": \"3-5% of portfolio\",\n  \"investment_score\": 7,\n  \"time_horizon\": \"12-18 months\",\n  \"rebalancing_triggers\": [\"Earnings miss\", \"Technical breakdown\", \"Macro shift\"]\n}\n```"
+  },
+  "analysis": "**1. FUNDAMENTAL ANALYSIS**\n\nO'Reilly Automotive, Inc. (ORLY) demonstrates robust financial health with consistent revenue growth of 5.9% and earnings growth of 10.9%. The company's profitability is strong, evidenced by a gross margin of 51.4% and an operating margin of 20.2%. However, the current ratio of 0.724 and quick ratio of 0.086 indicate potential liquidity concerns, suggesting reliance on inventory turnover and efficient cash management. The PE ratio of 37.04 is high compared to industry averages, indicating a premium valuation, while the negative PB ratio suggests significant intangible assets or liabilities. ORLY's competitive position is solid, with a strong market share in the auto parts industry, supported by a wide distribution network and customer loyalty. Growth prospects are promising, driven by organic expansion and potential technological advancements in inventory management. Key risks include market concentration, economic downturns affecting consumer spending, and regulatory changes impacting the automotive sector.\n\n**2. TECHNICAL ANALYSIS**\n\nORLY's current price of $79.05, coupled with a bullish trend despite being below the 20-day moving average, suggests potential for upward movement. The RSI of 21.0 indicates an oversold condition, which may precede a price rebound. However, the bearish MACD cross signals caution. The stock's annualized volatility of 15.3% is moderate, suggesting manageable risk levels. ORLY is near the lower Bollinger Band, reinforcing the oversold status. Key support is around $75, with resistance at $85. Volume analysis shows declining interest, which could precede a reversal if buying pressure increases.\n\n**3. MACROECONOMIC CONTEXT**\n\nThe auto parts sector is poised for steady growth, driven by increasing vehicle longevity and a shift towards electric vehicles. Regulatory changes, such as emissions standards, may impact operations but also present opportunities for innovation. ORLY's sensitivity to economic cycles is moderate, with interest rates and inflation potentially affecting consumer spending. Geopolitical factors, including trade policies, could influence supply chain dynamics, but ORLY's domestic focus mitigates some global exposure risks.\n\n**4. INVESTMENT RECOMMENDATION**\n\nRecommendation: Hold (Conviction Level: 6)\n\nORLY's strong market position and consistent financial performance support a hold recommendation. Key points include robust profitability, a solid competitive moat, and growth potential in a stable industry. However, high valuation metrics and liquidity concerns warrant caution. Risk-adjusted returns are expected to be moderate over a 12-18 month horizon, with potential upside from operational efficiencies and market expansion. Major risks include economic downturns and regulatory changes, which can be mitigated by diversifying the portfolio and maintaining a balanced allocation. ORLY should be positioned as a core holding for investors seeking exposure to the consumer cyclical sector with a focus on long-term growth.",
+  "technical_summary": "Current Price: $79.05 (+0.50%)\nTrend: Bullish, price below 20-day MA\nRSI: 21.0 (Oversold)\nMACD: Bearish Cross\nAnnualized Volatility: 15.3% (Medium)\nBollinger Bands: Near lower band (oversold)"
+}

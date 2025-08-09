@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "profile_id": "AIV_20250808_233601",
+    "risk_level": "aggressive",
+    "time_horizon": 1
+  },
+  "target_allocation": {
+    "Equity": 0.65,
+    "Bond": 0.3,
+    "Cash": 0.05
+  },
+  "rebalance": [
+    {
+      "asset_class": "Equity",
+      "current": "0.00%",
+      "target": "65.00%",
+      "delta": "+65.00%",
+      "band": "large",
+      "narrative": "Increase Equity with a decisive adjustment of around 65%."
+    },
+    {
+      "asset_class": "Cash",
+      "current": "0.00%",
+      "target": "5.00%",
+      "delta": "+5.00%",
+      "band": "medium",
+      "narrative": "Increase Cash with a measured adjustment of roughly 5%."
+    },
+    {
+      "asset_class": "Bond",
+      "current": "0.00%",
+      "target": "30.00%",
+      "delta": "+30.00%",
+      "band": "large",
+      "narrative": "Increase Bond with a decisive adjustment of around 30%."
+    }
+  ],
+  "sector_overweights": [],
+  "sector_underweights": [
+    "Technology"
+  ],
+  "signal_highlights": [
+    "Technology (-0.60)"
+  ],
+  "scenarios": {
+    "Base": {
+      "expected_return": 0.08
+    },
+    "Bull": {
+      "expected_return": 0.21200000000000002
+    },
+    "Bear": {
+      "expected_return": -0.202
+    }
+  },
+  "preferences": {
+    "preferred_sectors": [],
+    "avoid_sectors": [
+      "Technology"
+    ],
+    "prefers_esg": false,
+    "needs_liquidity": false,
+    "tax_sensitive": false
+  }
+}

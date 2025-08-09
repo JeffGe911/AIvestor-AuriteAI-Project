@@ -1,0 +1,48 @@
+{
+  "company_info": {
+    "symbol": "WBD",
+    "name": "Warner Bros. Discovery, Inc.",
+    "sector": "Communication Services",
+    "industry": "Entertainment",
+    "market_cap": 27002251264,
+    "employees": 35000,
+    "description": "Warner Bros. Discovery, Inc. operates as a media and entertainment company worldwide. It operates through three segments: Studios, Network, and DTC. The Studios segment produces and releases feature films for initial exhibition in theaters; produces and licenses television programs to its networks a...",
+    "website": "https://ir.wbd.com",
+    "currency": "USD"
+  },
+  "key_metrics": {
+    "pe_ratio": 35.193546,
+    "forward_pe": -83.92308,
+    "pb_ratio": 0.749056,
+    "ps_ratio": 0.7024336,
+    "ev_revenue": 1.571,
+    "ev_ebitda": 7.663,
+    "roe": 0.01759,
+    "roa": 0.00824,
+    "gross_margin": 0.4406,
+    "operating_margin": -0.0162,
+    "net_margin": 768000000,
+    "debt_to_equity": 92.733,
+    "current_ratio": 1.044,
+    "quick_ratio": 0.788,
+    "revenue_growth": 0.01,
+    "payout_ratio": 0.0,
+    "book_value": 14.565,
+    "price_to_book": 0.749056,
+    "52w_high": 13.87,
+    "52w_low": 6.64,
+    "market_cap": 27002251264,
+    "enterprise_value": 60394500096
+  },
+  "signal": {
+    "signal": "Hold",
+    "reason": "No reason provided",
+    "risk": "No risk identified",
+    "target_price": 11.5,
+    "score": 5.0,
+    "confidence": "high",
+    "raw_response": "```json\n{\n  \"signal\": \"Hold\",\n  \"confidence\": 5,\n  \"thesis\": \"WBD's strong content library and brand provide a competitive edge, but high leverage and stagnant growth limit upside. Focus on debt reduction and international expansion could enhance value.\",\n  \"primary_risk\": \"High leverage with a probability of 60%\",\n  \"secondary_risk\": \"Regulatory changes with a probability of 40%\",\n  \"target_price\": 11.50,\n  \"upside_scenario\": 13.00,\n  \"downside_scenario\": 9.00,\n  \"stop_loss\": 9.50,\n  \"position_size\": \"2-3% of portfolio\",\n  \"investment_score\": 5,\n  \"time_horizon\": \"12-18 months\",\n  \"rebalancing_triggers\": [\"Earnings miss\", \"Technical breakdown\", \"Macro shift\"]\n}\n```"
+  },
+  "analysis": "**1. FUNDAMENTAL ANALYSIS**\n\nWarner Bros. Discovery, Inc. (WBD) presents a mixed financial health picture. Revenue growth is stagnant at 1%, and profitability metrics are concerning, with a negative operating margin of -1.62% and a low ROE of 1.76%. The company faces significant debt, with a debt-to-equity ratio of 92.73, though it has been reducing net debt over recent years. Free cash flow is positive, indicating some operational efficiency. Valuation metrics show a high PE ratio of 35.19, suggesting overvaluation compared to industry peers, while a PB ratio of 0.75 indicates undervaluation relative to book value. WBD's competitive position is strong due to its extensive content library and brand recognition, but it faces intense competition from streaming giants. Growth prospects are limited by market saturation, though potential exists in international markets and content innovation. Key risks include high leverage, regulatory scrutiny, and market concentration in streaming.\n\n**2. TECHNICAL ANALYSIS**\n\nWBD's current price of $10.57 shows a bullish trend, although it remains below the 20-day moving average, indicating potential resistance. The RSI at 46.5 suggests a neutral momentum, while a bearish MACD cross signals potential downside risk. High annualized volatility of 66.7% indicates significant price swings, necessitating caution. Bollinger Bands suggest the price is in the middle band area, indicating no immediate breakout pattern. Key support levels are around $9.50, with resistance near $11.50. The market structure does not show clear Elliott Wave patterns or Fibonacci retracements, suggesting a lack of strong directional bias.\n\n**3. MACROECONOMIC CONTEXT**\n\nThe entertainment sector is undergoing rapid transformation, driven by technological disruption and changing consumer preferences towards streaming. Regulatory environments are tightening, particularly concerning content and data privacy. WBD's economic sensitivity is moderate, with potential impacts from interest rate fluctuations and inflation affecting production costs. Geopolitical factors, including trade relations and global market exposure, could influence content distribution and revenue streams, particularly in emerging markets.\n\n**4. INVESTMENT RECOMMENDATION**\n\nRecommendation: Hold (Conviction Level: 5)\n\nWBD's investment thesis hinges on its strong content portfolio and brand equity, providing a competitive edge in a crowded market. However, high leverage and stagnant growth pose significant risks. The company's strategic focus on debt reduction and potential international expansion could enhance long-term value. Risk-adjusted return expectations are moderate, with a 12-18 month horizon. Major risks include regulatory changes and competitive pressures, which could be mitigated by diversifying content offerings and strategic partnerships. Portfolio positioning should be as a satellite allocation, given the high volatility and sector-specific risks.",
+  "technical_summary": "Current Price: $10.57 (+0.57%)\nTrend: Bullish, price below 20-day MA\nRSI: 46.5 (Neutral)\nMACD: Bearish Cross\nAnnualized Volatility: 66.7% (High)\nBollinger Bands: Middle band area"
+}

@@ -1,0 +1,51 @@
+{
+  "company_info": {
+    "symbol": "CSGP",
+    "name": "CoStar Group, Inc.",
+    "sector": "Real Estate",
+    "industry": "Real Estate Services",
+    "market_cap": 40034922496,
+    "employees": 6593,
+    "description": "CoStar Group, Inc. provides information, analytics, and online marketplace services in the United States, Canada, Europe, the Asia Pacific, and Latin America. It offers CoStar Property that provides inventory of office, industrial, retail, multifamily, hospitality, and student housing properties and...",
+    "website": "https://www.costargroup.com",
+    "currency": "USD"
+  },
+  "key_metrics": {
+    "pe_ratio": 363.46155,
+    "forward_pe": 84.375,
+    "pb_ratio": 4.650362,
+    "ps_ratio": 13.731751,
+    "ev_revenue": 12.886,
+    "ev_ebitda": 207.327,
+    "roe": 0.01303,
+    "roa": -0.00041,
+    "gross_margin": 0.79331,
+    "operating_margin": -0.03481,
+    "net_margin": 104200000,
+    "debt_to_equity": 12.947,
+    "current_ratio": 5.834,
+    "quick_ratio": 5.587,
+    "revenue_growth": 0.153,
+    "earnings_growth": -0.789,
+    "earnings_quarterly_growth": -0.677,
+    "payout_ratio": 0.0,
+    "beta": 0.851,
+    "book_value": 20.321,
+    "price_to_book": 4.650362,
+    "52w_high": 97.43,
+    "52w_low": 68.26,
+    "market_cap": 40034922496,
+    "enterprise_value": 37567725568
+  },
+  "signal": {
+    "signal": "Hold",
+    "reason": "No reason provided",
+    "risk": "No risk identified",
+    "target_price": 72.0,
+    "score": 5.0,
+    "confidence": "high",
+    "raw_response": "```json\n{\n  \"signal\": \"Hold\",\n  \"confidence\": 5,\n  \"thesis\": \"CoStar's strong revenue growth and market position are offset by high valuation and declining profitability.\",\n  \"primary_risk\": \"Valuation compression due to high PE ratio, probability: 60%\",\n  \"secondary_risk\": \"Regulatory challenges impacting operations, probability: 40%\",\n  \"target_price\": 72.0,\n  \"upside_scenario\": 80.0,\n  \"downside_scenario\": 65.0,\n  \"stop_loss\": 66.0,\n  \"position_size\": \"2-3% of portfolio\",\n  \"investment_score\": 5,\n  \"time_horizon\": \"12-18 months\",\n  \"rebalancing_triggers\": [\"Earnings miss\", \"Technical breakdown\", \"Interest rate hike\"]\n}\n```"
+  },
+  "analysis": "**1. FUNDAMENTAL ANALYSIS**\n\nCoStar Group, Inc. (CSGP) exhibits a mixed financial health profile. The company shows robust revenue growth at 15.3%, but profitability metrics are concerning, with a negative operating margin of -3.48% and a declining earnings growth of -78.9%. The high gross margin of 79.33% indicates strong pricing power, yet the net margin is misleading due to a one-time gain. Cash flow analysis reveals a troubling trend with negative free cash flow in 2024, primarily due to increased capital expenditures.\n\nValuation metrics suggest overvaluation with a PE ratio of 363.46 and a forward PE of 84.38, significantly higher than industry averages. The PB ratio of 4.65 and PS ratio of 13.73 further indicate premium pricing.\n\nCoStar holds a competitive position in real estate services, leveraging a strong data-driven platform. However, its moat is challenged by increasing competition and technological advancements. Growth prospects are tied to organic expansion and potential acquisitions, but innovation appears limited.\n\nRisk factors include high valuation, potential regulatory scrutiny, and market concentration risks, given its reliance on the U.S. real estate market.\n\n**2. TECHNICAL ANALYSIS**\n\nCSGP's price action is bearish, with the stock trading below its 20-day moving average. The RSI at 34.2 suggests the stock is nearing oversold territory, but not yet a reversal signal. The MACD indicates a bearish cross, reinforcing the negative trend. Key support levels are around $68, with resistance at $75.\n\nVolatility is moderate at 29.8%, suggesting potential price swings. The Bollinger Bands indicate the stock is trading near the middle band, with no clear breakout pattern.\n\nMarket structure analysis does not reveal significant Elliott Wave or Fibonacci retracement patterns, suggesting a lack of clear directional bias.\n\n**3. MACROECONOMIC CONTEXT**\n\nThe real estate services sector faces headwinds from rising interest rates, which could dampen transaction volumes and valuations. Inflationary pressures may impact operational costs, while GDP growth remains a critical driver for real estate demand. Technological disruption poses both a threat and an opportunity, as digital platforms reshape the industry landscape.\n\nGeopolitical factors, including trade relations and regulatory changes, could impact CoStar's global market exposure, though its primary focus remains the U.S. market.\n\n**4. INVESTMENT RECOMMENDATION**\n\nRecommendation: Hold (Conviction Level: 5)\n\nCoStar Group's investment thesis hinges on its dominant market position and robust revenue growth. However, the high valuation, declining profitability, and negative cash flow warrant caution. Key supporting points include:\n\n1. Strong revenue growth and high gross margins.\n2. Leading market position with a comprehensive data platform.\n3. Potential for strategic acquisitions to drive growth.\n\nRisk-adjusted return expectations are moderate, with a 12-18 month horizon. Major risks include valuation compression, regulatory challenges, and market concentration. Mitigation strategies involve monitoring interest rate trends and competitive dynamics.\n\nPortfolio positioning: Consider as a satellite allocation, given the high-risk profile and potential for volatility.",
+  "technical_summary": "Current Price: $71.59 (-0.32%)\nTrend: Bearish, price below 20-day MA\nRSI: 34.2 (Neutral)\nMACD: Bearish Cross\nAnnualized Volatility: 29.8% (Medium)\nBollinger Bands: Middle band area"
+}

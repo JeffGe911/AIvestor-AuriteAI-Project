@@ -1,0 +1,21 @@
+{
+  "investment_amount": 30000.0,
+  "risk_level": "conservative",
+  "time_horizon": 5,
+  "investment_goal": null,
+  "monthly_contribution": 0,
+  "preferred_sectors": [],
+  "avoid_sectors": [
+    "Technology"
+  ],
+  "needs_liquidity": false,
+  "prefers_esg": false,
+  "tax_sensitive": false,
+  "user_sophistication": "beginner",
+  "behavioral_traits": {
+    "risk_averse": true
+  },
+  "profile_id": "AIV_20250808_143528",
+  "creation_timestamp": "2025-08-08T14:35:28.647261",
+  "profile_quality": 0.57
+}

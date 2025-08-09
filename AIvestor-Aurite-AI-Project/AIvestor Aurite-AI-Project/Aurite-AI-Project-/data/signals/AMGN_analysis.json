@@ -1,0 +1,53 @@
+{
+  "company_info": {
+    "symbol": "AMGN",
+    "name": "Amgen Inc.",
+    "sector": "Healthcare",
+    "industry": "Drug Manufacturers - General",
+    "market_cap": 155172077568,
+    "employees": 28000,
+    "description": "Amgen Inc. discovers, develops, manufactures, and delivers human therapeutics worldwide. The company's principal products include Enbrel for the treatment of rheumatoid arthritis, plaque psoriasis, and psoriatic arthritis; Otezla for the treatment of adult patients with plaque psoriasis, psoriatic a...",
+    "website": "https://www.amgen.com",
+    "currency": "USD"
+  },
+  "key_metrics": {
+    "pe_ratio": 23.548204,
+    "forward_pe": 13.944365,
+    "pb_ratio": 20.887747,
+    "ps_ratio": 4.444027,
+    "ev_revenue": 5.769,
+    "ev_ebitda": 12.548,
+    "roe": 0.99139,
+    "roa": 0.07441,
+    "gross_margin": 0.69359,
+    "operating_margin": 0.32629,
+    "net_margin": 6618999808,
+    "debt_to_equity": 756.651,
+    "current_ratio": 1.306,
+    "quick_ratio": 0.817,
+    "revenue_growth": 0.094,
+    "earnings_growth": 0.92,
+    "earnings_quarterly_growth": 0.92,
+    "dividend_yield": 3.34,
+    "payout_ratio": 0.7572,
+    "dividend_rate": 9.52,
+    "beta": 0.48,
+    "book_value": 13.799,
+    "price_to_book": 20.887747,
+    "52w_high": 339.17,
+    "52w_low": 253.3,
+    "market_cap": 155172077568,
+    "enterprise_value": 201447620608
+  },
+  "signal": {
+    "signal": "Buy",
+    "reason": "No reason provided",
+    "risk": "No risk identified",
+    "target_price": 280.0,
+    "score": 5.0,
+    "confidence": "high",
+    "raw_response": "```json\n{\n  \"signal\": \"Buy\",\n  \"confidence\": 7.5,\n  \"thesis\": \"Amgen's strong financials, innovative pipeline, and market position support growth, with potential undervaluation based on forward earnings.\",\n  \"primary_risk\": \"Regulatory challenges with a probability of 30%\",\n  \"secondary_risk\": \"Patent expirations with a probability of 25%\",\n  \"target_price\": 280.0,\n  \"upside_scenario\": 300.0,\n  \"downside_scenario\": 240.0,\n  \"stop_loss\": 230.0,\n  \"position_size\": \"3-5% of portfolio\",\n  \"investment_score\": 7.8,\n  \"time_horizon\": \"12-18 months\",\n  \"rebalancing_triggers\": [\"Earnings miss\", \"Technical breakdown\", \"Macro shift\"]\n}\n```"
+  },
+  "analysis": "**1. FUNDAMENTAL ANALYSIS**\n\nAmgen Inc. exhibits a robust financial profile with a market cap of approximately $155 billion. The company demonstrates solid revenue growth at 9.4% and impressive earnings growth of 92%, indicating strong operational efficiency and profitability. The gross margin of 69.36% and operating margin of 32.63% reflect effective cost management. However, the net margin figure appears erroneous and should be verified. The high debt-to-equity ratio of 756.65 suggests significant leverage, which could pose financial risks, although the current and quick ratios of 1.306 and 0.817, respectively, indicate adequate short-term liquidity.\n\nValuation metrics show a PE ratio of 23.55 and a forward PE of 13.94, suggesting potential undervaluation relative to future earnings. The PB ratio of 20.89 is high, reflecting substantial intangible assets or goodwill. Amgen's competitive position is bolstered by a strong market share in the biotech sector, a robust pipeline of innovative therapies, and a wide economic moat due to its patent portfolio and R&D capabilities.\n\nGrowth prospects are promising, driven by organic growth and expansion into new therapeutic areas. However, risks include regulatory scrutiny, patent expirations, and market concentration in key drugs.\n\n**2. TECHNICAL ANALYSIS**\n\nAmgen's current price of $256.29 is in a bearish trend, trading below the 20-day moving average. The RSI at 25.2 indicates an oversold condition, suggesting a potential rebound. The MACD shows a bullish cross, hinting at a possible trend reversal. Annualized volatility at 16.3% is moderate, implying a balanced risk profile. Key support levels are around $250, with resistance near $270. The Bollinger Bands suggest the price is in the middle band area, indicating potential for upward movement. Volume analysis shows declining interest, which may precede a breakout.\n\n**3. MACROECONOMIC CONTEXT**\n\nThe healthcare sector remains resilient, driven by aging populations and increasing demand for innovative treatments. Regulatory environments are stringent, impacting drug approvals and pricing. Amgen's sensitivity to interest rates is moderate, given its leverage, while inflation could pressure input costs. The company is relatively insulated from GDP fluctuations due to the inelastic demand for healthcare products. Geopolitical factors, such as trade relations and regulatory changes, could impact global market exposure, particularly in emerging markets.\n\n**4. INVESTMENT RECOMMENDATION**\n\nRecommendation: Hold (Conviction Level: 7)\n\nAmgen presents a compelling investment case with strong profitability, a robust pipeline, and a solid market position. Key supporting points include:\n\n1. Strong revenue and earnings growth, indicating operational efficiency.\n2. A promising pipeline of innovative therapies, supporting long-term growth.\n3. A wide economic moat due to patents and R&D capabilities.\n\nRisk-adjusted return expectations are moderate, with a 12-18 month horizon. Major risks include regulatory challenges and patent expirations. Mitigation strategies involve diversification across therapeutic areas and geographic markets. Portfolio positioning should be as a core holding, given its stable cash flows and growth potential, with periodic reviews to assess regulatory impacts and pipeline developments.",
+  "technical_summary": "Current Price: $256.29 (+0.52%)\nTrend: Bearish, price below 20-day MA\nRSI: 25.2 (Oversold)\nMACD: Bullish Cross\nAnnualized Volatility: 16.3% (Medium)\nBollinger Bands: Middle band area"
+}

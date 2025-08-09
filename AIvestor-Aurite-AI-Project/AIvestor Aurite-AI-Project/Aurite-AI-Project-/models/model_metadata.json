@@ -1,0 +1,12 @@
+{
+  "model_name": "Unified Logistic Regression",
+  "accuracy": 0.8333333333333333,
+  "features_used": 9,
+  "timestamp": "2025-07-26T19:30:18.440500",
+  "time_series_enhanced": true,
+  "unified_training": true,
+  "target_leakage_fixed": true,
+  "compatible_features": true,
+  "works_with_example_usage": true,
+  "works_with_realistic_prediction": true
+}

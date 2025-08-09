@@ -1,0 +1,51 @@
+{
+  "company_info": {
+    "symbol": "ENPH",
+    "name": "Enphase Energy, Inc.",
+    "sector": "Technology",
+    "industry": "Solar",
+    "market_cap": 4241562368,
+    "employees": 2781,
+    "description": "Enphase Energy, Inc., together with its subsidiaries, designs, develops, manufactures, and sells home energy solutions for the solar photovoltaic industry in the United States and internationally. The company offers semiconductor-based microinverter that converts energy at the individual solar modul...",
+    "website": "https://www.enphase.com",
+    "currency": "USD"
+  },
+  "key_metrics": {
+    "pe_ratio": 25.147287,
+    "forward_pe": 8.863387,
+    "pb_ratio": 4.815914,
+    "ps_ratio": 2.8604643,
+    "ev_revenue": 2.604,
+    "ev_ebitda": 14.638,
+    "roe": 0.19795,
+    "roa": 0.03744,
+    "gross_margin": 0.32768002,
+    "operating_margin": 0.111049995,
+    "net_margin": 174704000,
+    "debt_to_equity": 140.21,
+    "current_ratio": 1.969,
+    "quick_ratio": 1.545,
+    "revenue_growth": 0.197,
+    "earnings_growth": 2.489,
+    "earnings_quarterly_growth": 2.42,
+    "payout_ratio": 0.0,
+    "beta": 1.589,
+    "book_value": 6.736,
+    "price_to_book": 4.815914,
+    "52w_high": 130.08,
+    "52w_low": 29.89,
+    "market_cap": 4241562368,
+    "enterprise_value": 3861121024
+  },
+  "signal": {
+    "signal": "Hold",
+    "reason": "No reason provided",
+    "risk": "No risk identified",
+    "target_price": 85.0,
+    "score": 5.0,
+    "confidence": "high",
+    "raw_response": "```json\n{\n  \"signal\": \"Hold\",\n  \"confidence\": 6,\n  \"thesis\": \"Enphase Energy's strong growth and competitive position are offset by high valuation and leverage risks, with potential regulatory and technological challenges.\",\n  \"primary_risk\": \"Regulatory changes with a probability of 30%\",\n  \"secondary_risk\": \"Technological disruption with a probability of 25%\",\n  \"target_price\": 85.0,\n  \"upside_scenario\": 100.0,\n  \"downside_scenario\": 60.0,\n  \"stop_loss\": 62.0,\n  \"position_size\": \"2-3% of portfolio\",\n  \"investment_score\": 6.5,\n  \"time_horizon\": \"12-18 months\",\n  \"rebalancing_triggers\": [\"Earnings miss\", \"Technical breakdown\", \"Macro shift\"]\n}\n```"
+  },
+  "analysis": "**1. FUNDAMENTAL ANALYSIS**\n\nEnphase Energy, Inc. (ENPH) demonstrates robust financial health with a revenue growth rate of 19.7% and an impressive earnings growth of 248.9%, indicating strong operational efficiency and market demand. The company's profitability metrics, including a gross margin of 32.77% and an operating margin of 11.10%, reflect effective cost management and pricing power. However, the high debt-to-equity ratio of 140.21 suggests potential leverage risks, although mitigated by a healthy current ratio of 1.969.\n\nValuation metrics show a PE ratio of 25.15 and a forward PE of 8.86, suggesting the market anticipates significant earnings growth. The PB ratio of 4.82 is higher than industry averages, indicating a premium valuation. The EV/EBITDA ratio, while not provided, would be crucial for a comprehensive peer comparison.\n\nEnphase holds a competitive position in the solar technology sector, driven by its innovative microinverter technology, which provides a significant moat. The company’s market share is bolstered by its strong brand and customer loyalty.\n\nGrowth prospects are promising, with opportunities in international expansion and the increasing adoption of solar energy. However, risks include regulatory changes, technological disruption, and market concentration, as the solar industry is highly competitive and subject to policy shifts.\n\n**2. TECHNICAL ANALYSIS**\n\nEnphase's current price of $68.68, below the 20-day moving average, indicates a bearish trend. The RSI at 38.9 suggests the stock is nearing oversold territory, while a bullish MACD cross indicates potential upward momentum. The stock's annualized volatility of 56.7% reflects high risk, with prices near the lower Bollinger Band, suggesting a possible rebound.\n\nKey support levels are around $65, with resistance near $75. Volume analysis shows declining interest, which may precede a breakout. No clear Elliott Wave patterns or Fibonacci retracements are evident, but the stock's proximity to support levels could attract buyers.\n\n**3. MACROECONOMIC CONTEXT**\n\nThe solar industry benefits from favorable regulatory environments and technological advancements, driving long-term growth. However, it remains sensitive to interest rate fluctuations and inflation, which can impact financing costs and consumer demand. Enphase's global exposure subjects it to geopolitical risks, including trade tensions and regulatory changes, particularly in key markets like the U.S. and Europe.\n\n**4. INVESTMENT RECOMMENDATION**\n\nRecommendation: Hold (Conviction Level: 6)\n\nEnphase Energy presents a mixed investment case. The core thesis is supported by strong revenue and earnings growth, a solid competitive position, and promising expansion opportunities. However, high valuation multiples and leverage, coupled with industry risks, warrant caution.\n\nRisk-adjusted return expectations are moderate, with a 12-18 month horizon. Investors should be prepared for volatility, given the stock's high beta and sector dynamics. Major risks include regulatory changes and technological disruption, which can be mitigated by diversifying across the renewable energy sector.\n\nPortfolio positioning: Consider Enphase as a satellite allocation within a diversified portfolio, focusing on growth and innovation in the renewable energy space.",
+  "technical_summary": "Current Price: $68.68 (-2.15%)\nTrend: Bearish, price below 20-day MA\nRSI: 38.9 (Neutral)\nMACD: Bullish Cross\nAnnualized Volatility: 56.7% (High)\nBollinger Bands: Near lower band (oversold)"
+}

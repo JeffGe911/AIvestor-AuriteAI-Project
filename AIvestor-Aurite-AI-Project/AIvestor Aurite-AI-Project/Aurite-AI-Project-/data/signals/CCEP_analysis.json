@@ -1,0 +1,53 @@
+{
+  "company_info": {
+    "symbol": "CCEP",
+    "name": "Coca-Cola Europacific Partners PLC",
+    "sector": "Consumer Defensive",
+    "industry": "Beverages - Non-Alcoholic",
+    "market_cap": 43156738048,
+    "employees": 41000,
+    "description": "Coca-Cola Europacific Partners PLC, together with its subsidiaries, produces, distributes, and sells a range of non-alcoholic ready to drink beverages. It offers flavours, mixers, and energy drinks; soft drinks, water, enhanced water, and isotonic drinks; and tea and coffee, juices, and other drinks...",
+    "website": "https://www.cocacolaep.com",
+    "currency": "USD"
+  },
+  "key_metrics": {
+    "pe_ratio": 24.297436,
+    "forward_pe": 20.826374,
+    "pb_ratio": 5.39697,
+    "ps_ratio": 2.0664976,
+    "ev_revenue": 2.547,
+    "ev_ebitda": 15.653,
+    "roe": 0.17929001,
+    "roa": 0.05369,
+    "gross_margin": 0.35463002,
+    "operating_margin": 0.12945,
+    "net_margin": 1534000000,
+    "debt_to_equity": 142.857,
+    "current_ratio": 0.834,
+    "quick_ratio": 0.564,
+    "revenue_growth": 0.045,
+    "earnings_growth": 0.15,
+    "earnings_quarterly_growth": 0.146,
+    "dividend_yield": 2.35,
+    "payout_ratio": 0.6048,
+    "dividend_rate": 2.19,
+    "beta": 0.622,
+    "book_value": 17.558,
+    "price_to_book": 5.39697,
+    "52w_high": 100.67,
+    "52w_low": 72.51,
+    "market_cap": 43156738048,
+    "enterprise_value": 53189427200
+  },
+  "signal": {
+    "signal": "Hold",
+    "reason": "No reason provided",
+    "risk": "No risk identified",
+    "target_price": 82.0,
+    "score": 5.0,
+    "confidence": "high",
+    "raw_response": "```json\n{\n  \"signal\": \"Hold\",\n  \"confidence\": 6,\n  \"thesis\": \"CCEP offers stable income and moderate growth, supported by strong brand equity and operational efficiency. Premium valuation limits short-term upside.\",\n  \"primary_risk\": \"Regulatory changes impacting profitability with a probability of 30%\",\n  \"secondary_risk\": \"Competitive pressures in key markets with a probability of 25%\",\n  \"target_price\": 82.0,\n  \"upside_scenario\": 90.0,\n  \"downside_scenario\": 70.0,\n  \"stop_loss\": 72.0,\n  \"position_size\": \"2-4% of portfolio\",\n  \"investment_score\": 6.5,\n  \"time_horizon\": \"12-18 months\",\n  \"rebalancing_triggers\": [\"Earnings miss\", \"Technical breakdown\", \"Macro shift\"]\n}\n```"
+  },
+  "analysis": "**1. FUNDAMENTAL ANALYSIS**\n\nCoca-Cola Europacific Partners PLC (CCEP) demonstrates moderate financial health with a revenue growth rate of 4.5% and a robust earnings growth of 15%, indicating effective cost management and operational efficiency. The company's profitability metrics, such as a gross margin of 35.46% and an operating margin of 12.95%, reflect strong operational performance. However, the net margin figure appears to be incorrectly stated as 1,534,000,000, which should be clarified for accurate analysis. The free cash flow generation is solid at $2.122 billion, supporting dividend payments and potential debt reduction.\n\nValuation metrics show a PE ratio of 24.3 and a forward PE of 20.8, suggesting a premium valuation compared to industry peers, which may reflect market confidence in its growth prospects. The PB ratio of 5.4 indicates a high market valuation relative to book value, while the EV/EBITDA ratio should be compared to peers for a comprehensive view.\n\nCCEP holds a strong competitive position with a significant market share in the non-alcoholic beverage sector, benefiting from Coca-Cola's brand strength and distribution network. Growth prospects are supported by geographic expansion and product innovation, though regulatory and market concentration risks persist, particularly in regions with stringent health regulations.\n\n**2. TECHNICAL ANALYSIS**\n\nCCEP's price action shows a bullish trend, although the current price is below the 20-day moving average, suggesting potential short-term weakness. The RSI at 34.5 indicates a neutral momentum, while the MACD bearish cross signals potential downward pressure. Key support levels are around $74, with resistance near $78. Bollinger Bands suggest the price is in the middle band area, indicating moderate volatility.\n\nThe annualized volatility of 18% is medium, suggesting moderate price swings. Volume analysis does not indicate significant accumulation or distribution, aligning with the neutral RSI. No clear Elliott Wave or Fibonacci patterns are evident, suggesting a lack of strong directional bias.\n\n**3. MACROECONOMIC CONTEXT**\n\nThe non-alcoholic beverage sector remains resilient, driven by consumer demand for healthier options and sustainability trends. Regulatory scrutiny on sugar content and environmental impact could pose challenges. CCEP's economic sensitivity is moderate, with potential impacts from interest rate changes and inflation affecting input costs. The company's global market exposure requires monitoring geopolitical factors, such as trade relations and regulatory changes, particularly in emerging markets.\n\n**4. INVESTMENT RECOMMENDATION**\n\nRecommendation: Hold (Conviction Level: 6)\n\nCCEP presents a stable investment with moderate growth prospects, supported by strong brand equity and operational efficiency. The premium valuation suggests limited upside potential in the short term, but the company's robust cash flow and strategic positioning offer long-term value. Key risks include regulatory challenges and market concentration, which could impact profitability.\n\nRisk-adjusted return expectations are moderate, with a 12-18 month horizon for potential capital appreciation. Major risks include regulatory changes and competitive pressures, mitigated by diversification and innovation strategies.\n\nPortfolio Positioning: CCEP is suitable as a core holding for conservative portfolios seeking stable income and moderate growth, with a focus on long-term capital preservation.",
+  "technical_summary": "Current Price: $76.02 (+0.76%)\nTrend: Bullish, price below 20-day MA\nRSI: 34.5 (Neutral)\nMACD: Bearish Cross\nAnnualized Volatility: 18.0% (Medium)\nBollinger Bands: Middle band area"
+}

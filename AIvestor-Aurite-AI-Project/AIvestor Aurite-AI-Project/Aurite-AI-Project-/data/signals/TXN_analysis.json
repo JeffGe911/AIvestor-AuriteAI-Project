@@ -1,0 +1,53 @@
+{
+  "company_info": {
+    "symbol": "TXN",
+    "name": "Texas Instruments Incorporated",
+    "sector": "Technology",
+    "industry": "Semiconductors",
+    "market_cap": 170208641024,
+    "employees": 34000,
+    "description": "Texas Instruments Incorporated designs, manufactures, and sells semiconductors to electronics designers and manufacturers in the United States, China, rest of Asia, Europe, Middle East, Africa, Japan, and internationally. The company operates through Analog and Embedded Processing segments. The Anal...",
+    "website": "https://www.ti.com",
+    "currency": "USD"
+  },
+  "key_metrics": {
+    "pe_ratio": 34.226692,
+    "forward_pe": 31.840136,
+    "pb_ratio": 10.375174,
+    "ps_ratio": 10.207415,
+    "ev_revenue": 10.657,
+    "ev_ebitda": 23.665,
+    "roe": 0.29990998,
+    "roa": 0.10406,
+    "gross_margin": 0.58027,
+    "operating_margin": 0.35027,
+    "net_margin": 5015000064,
+    "debt_to_equity": 85.612,
+    "current_ratio": 5.812,
+    "quick_ratio": 3.739,
+    "revenue_growth": 0.164,
+    "earnings_growth": 0.156,
+    "earnings_quarterly_growth": 0.149,
+    "dividend_yield": 2.93,
+    "payout_ratio": 0.9835,
+    "dividend_rate": 5.44,
+    "beta": 1.022,
+    "book_value": 18.045,
+    "price_to_book": 10.375174,
+    "52w_high": 221.69,
+    "52w_low": 139.95,
+    "market_cap": 170208641024,
+    "enterprise_value": 177701683200
+  },
+  "signal": {
+    "signal": "Hold",
+    "reason": "No reason provided",
+    "risk": "No risk identified",
+    "target_price": 185.0,
+    "score": 5.0,
+    "confidence": "high",
+    "raw_response": "```json\n{\n  \"signal\": \"Hold\",\n  \"confidence\": 6,\n  \"thesis\": \"TXN's strong market position and profitability are offset by premium valuation and high debt levels.\",\n  \"primary_risk\": \"Regulatory changes with a probability of 30%\",\n  \"secondary_risk\": \"Market cyclicality with a probability of 25%\",\n  \"target_price\": 185.0,\n  \"upside_scenario\": 200.0,\n  \"downside_scenario\": 170.0,\n  \"stop_loss\": 165.0,\n  \"position_size\": \"3-5% of portfolio\",\n  \"investment_score\": 7,\n  \"time_horizon\": \"12-18 months\",\n  \"rebalancing_triggers\": [\"Earnings miss\", \"Technical breakdown\", \"Macro shift\"]\n}\n```"
+  },
+  "analysis": "**1. FUNDAMENTAL ANALYSIS**\n\nTexas Instruments (TXN) demonstrates robust financial health, with a revenue growth rate of 16.4% and earnings growth of 15.6%, indicating strong operational performance. The company maintains high profitability, evidenced by a gross margin of 58.03% and an operating margin of 35.03%. However, the net margin figure appears erroneous and should be verified. Cash flow analysis reveals a declining free cash flow, from $5.92 billion in 2022 to $1.49 billion in 2024, primarily due to increased capital expenditures.\n\nValuation metrics show TXN trading at a PE ratio of 34.23 and a forward PE of 31.84, which are above industry averages, suggesting a premium valuation. The PB ratio of 10.38 also indicates a high valuation relative to book value. TXN's competitive position is strong, with a significant market share in the semiconductor industry, supported by a wide moat due to its diverse product portfolio and strong customer relationships.\n\nGrowth prospects are promising, driven by organic growth and expansion into new markets, particularly in automotive and industrial applications. However, risks include high debt levels (debt-to-equity ratio of 85.61), potential regulatory changes, and market concentration in cyclical industries.\n\n**2. TECHNICAL ANALYSIS**\n\nTXN's price action is currently bearish, with the stock trading below its 20-day moving average. The RSI at 43.8 suggests a neutral momentum, while the MACD indicates a bullish cross, hinting at potential upward momentum. Key support levels are around $180, with resistance near $190. The annualized volatility of 17.6% is moderate, suggesting a balanced risk profile. Bollinger Bands indicate the stock is trading near the middle band, reflecting a lack of strong directional bias. No clear Elliott Wave or Fibonacci patterns are evident, suggesting a consolidation phase.\n\n**3. MACROECONOMIC CONTEXT**\n\nThe semiconductor sector is poised for growth, driven by increasing demand in automotive, IoT, and AI applications. However, the industry faces regulatory scrutiny and potential supply chain disruptions. TXN's sensitivity to economic cycles is moderate, with interest rate hikes potentially impacting capital costs. Inflationary pressures could affect input costs, but TXN's pricing power may mitigate this risk. Geopolitical factors, such as trade tensions and regulatory changes, could impact global operations, but TXN's diversified geographic presence provides some insulation.\n\n**4. INVESTMENT RECOMMENDATION**\n\nRecommendation: Hold (Conviction Level: 6)\n\nInvestment Thesis:\n1. Strong market position with a diversified product portfolio.\n2. Robust profitability and growth prospects in key sectors.\n3. Premium valuation suggests limited upside potential in the short term.\n\nRisk-adjusted return expectations are moderate, with a 12-18 month horizon. Major risks include regulatory changes, market cyclicality, and high debt levels. Mitigation strategies involve monitoring regulatory developments and maintaining a diversified portfolio.\n\nPortfolio Positioning: TXN should be considered a core holding for long-term growth, given its strong fundamentals and market position. However, due to current valuation levels, new investments should be approached cautiously, with a focus on potential dips for entry points.",
+  "technical_summary": "Current Price: $183.23 (-0.24%)\nTrend: Bearish, price below 20-day MA\nRSI: 43.8 (Neutral)\nMACD: Bullish Cross\nAnnualized Volatility: 17.6% (Medium)\nBollinger Bands: Middle band area"
+}

@@ -1,0 +1,50 @@
+{
+  "company_info": {
+    "symbol": "ISRG",
+    "name": "Intuitive Surgical, Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies",
+    "market_cap": 168512864256,
+    "employees": 15638,
+    "description": "Intuitive Surgical, Inc. develops, manufactures, and markets products that enable physicians and healthcare providers to enhance the quality of and access to minimally invasive care in the United States and internationally. The company offers the da Vinci Surgical System that enables surgical proced...",
+    "website": "https://www.intuitive.com",
+    "currency": "USD"
+  },
+  "key_metrics": {
+    "pe_ratio": 65.37969,
+    "forward_pe": 59.806614,
+    "pb_ratio": 9.440684,
+    "ps_ratio": 18.426775,
+    "ev_revenue": 17.845,
+    "ev_ebitda": 51.228,
+    "roe": 0.1604,
+    "roa": 0.090150006,
+    "gross_margin": 0.66612,
+    "operating_margin": 0.30466998,
+    "net_margin": 2607600128,
+    "current_ratio": 5.167,
+    "quick_ratio": 3.971,
+    "revenue_growth": 0.214,
+    "earnings_growth": 0.24,
+    "earnings_quarterly_growth": 0.25,
+    "payout_ratio": 0.0,
+    "beta": 1.599,
+    "book_value": 49.793,
+    "price_to_book": 9.440684,
+    "52w_high": 616.0,
+    "52w_low": 425.0,
+    "market_cap": 168512864256,
+    "enterprise_value": 163196747776
+  },
+  "signal": {
+    "signal": "Hold",
+    "reason": "No reason provided",
+    "risk": "No risk identified",
+    "target_price": 540.0,
+    "score": 5.0,
+    "confidence": "high",
+    "raw_response": "```json\n{\n  \"signal\": \"Hold\",\n  \"confidence\": 7,\n  \"thesis\": \"ISRG's market leadership and innovation drive growth, but high valuation limits short-term upside.\",\n  \"primary_risk\": \"Regulatory changes with a moderate probability of 40%\",\n  \"secondary_risk\": \"Competitive pressures with a probability of 30%\",\n  \"target_price\": 540.0,\n  \"upside_scenario\": 600.0,\n  \"downside_scenario\": 480.0,\n  \"stop_loss\": 470.0,\n  \"position_size\": \"5-7% of portfolio\",\n  \"investment_score\": 7.5,\n  \"time_horizon\": \"12-18 months\",\n  \"rebalancing_triggers\": [\"Earnings miss\", \"Technical breakdown\", \"Macro shift\"]\n}\n```"
+  },
+  "analysis": "**1. FUNDAMENTAL ANALYSIS**\n\nIntuitive Surgical, Inc. (ISRG) demonstrates robust financial health, with a strong revenue growth rate of 21.4% and earnings growth of 24%, indicating effective operational management and market demand. The company's profitability metrics are impressive, with a gross margin of 66.6% and an operating margin of 30.5%, reflecting efficient cost management and pricing power. The cash flow analysis shows a healthy free cash flow, although recent capital expenditures have increased, suggesting ongoing investments in growth.\n\nValuation metrics indicate that ISRG is trading at a premium, with a PE ratio of 65.38 and a PB ratio of 9.44, significantly higher than industry averages. This premium reflects the company's dominant market position and growth prospects. ISRG's competitive position is strong, with a significant market share in robotic-assisted surgery, a high barrier to entry, and a robust innovation pipeline, including advancements in AI and machine learning.\n\nGrowth prospects are promising, driven by organic growth in surgical procedures, expansion into new markets, and continuous innovation. However, risks include regulatory scrutiny, potential competition from emerging technologies, and market concentration in the healthcare sector.\n\n**2. TECHNICAL ANALYSIS**\n\nISRG's price action shows a bullish trend, although the current price is below the 20-day moving average, indicating potential short-term weakness. The RSI at 38.5 suggests a neutral momentum, while the MACD indicates a bearish cross, signaling potential downward pressure. The stock is near the lower Bollinger Band, suggesting it may be oversold and could rebound.\n\nVolatility is moderate, with an annualized rate of 19.4%, indicating a balanced risk profile. Key support levels are around $500, with resistance near $550. The market structure does not show clear Elliott Wave patterns, but Fibonacci retracements suggest potential support at $480.\n\n**3. MACROECONOMIC CONTEXT**\n\nThe healthcare sector is poised for growth, driven by technological advancements and an aging population. Regulatory environments remain a concern, with potential impacts from healthcare policy changes. ISRG's economic sensitivity is moderate, with limited direct exposure to interest rate fluctuations but potential vulnerability to inflationary pressures affecting healthcare costs. Geopolitical factors, such as trade relations and global market exposure, could impact supply chains and market access.\n\n**4. INVESTMENT RECOMMENDATION**\n\nRecommendation: Hold (Conviction Level: 7)\n\nISRG is a strong company with a dominant market position and robust growth prospects. However, its current valuation is high, suggesting limited short-term upside. Key supporting points include its leadership in robotic surgery, strong financial health, and continuous innovation. Risk-adjusted return expectations are moderate, with a 12-18 month horizon for potential upside as growth initiatives materialize.\n\nMajor risks include regulatory changes and competitive pressures. Mitigation strategies involve monitoring regulatory developments and diversifying the product portfolio. For portfolio positioning, ISRG is suitable as a core holding for growth-oriented investors, given its market leadership and innovation potential.",
+  "technical_summary": "Current Price: $521.96 (-0.95%)\nTrend: Bullish, price below 20-day MA\nRSI: 38.5 (Neutral)\nMACD: Bearish Cross\nAnnualized Volatility: 19.4% (Medium)\nBollinger Bands: Near lower band (oversold)"
+}

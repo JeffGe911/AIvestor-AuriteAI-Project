@@ -1,0 +1,51 @@
+{
+  "company_info": {
+    "symbol": "AMZN",
+    "name": "Amazon.com, Inc.",
+    "sector": "Consumer Cyclical",
+    "industry": "Internet Retail",
+    "market_cap": 2374966444032,
+    "employees": 1546000,
+    "description": "Amazon.com, Inc. engages in the retail sale of consumer products, advertising, and subscriptions service through online and physical stores in North America and internationally. The company operates through three segments: North America, International, and Amazon Web Services (AWS). It also manufact...",
+    "website": "https://www.aboutamazon.com",
+    "currency": "USD"
+  },
+  "key_metrics": {
+    "pe_ratio": 33.946648,
+    "forward_pe": 36.209755,
+    "pb_ratio": 7.112197,
+    "ps_ratio": 3.544525,
+    "ev_revenue": 3.651,
+    "ev_ebitda": 18.277,
+    "roe": 0.2477,
+    "roa": 0.07699,
+    "gross_margin": 0.49607,
+    "operating_margin": 0.11432,
+    "net_margin": 70623002624,
+    "debt_to_equity": 47.808,
+    "current_ratio": 1.024,
+    "quick_ratio": 0.768,
+    "revenue_growth": 0.133,
+    "earnings_growth": 0.333,
+    "earnings_quarterly_growth": 0.347,
+    "payout_ratio": 0.0,
+    "beta": 1.314,
+    "book_value": 31.311,
+    "price_to_book": 7.112197,
+    "52w_high": 242.52,
+    "52w_low": 161.38,
+    "market_cap": 2374966444032,
+    "enterprise_value": 2446051770368
+  },
+  "signal": {
+    "signal": "Hold",
+    "reason": "No reason provided",
+    "risk": "No risk identified",
+    "target_price": 240.0,
+    "score": 5.0,
+    "confidence": "high",
+    "raw_response": "```json\n{\n  \"signal\": \"Hold\",\n  \"confidence\": 7,\n  \"thesis\": \"Amazon's market leadership and growth in e-commerce and cloud computing drive long-term potential, supported by innovation in AI and logistics.\",\n  \"primary_risk\": \"Regulatory scrutiny with a probability of 30%\",\n  \"secondary_risk\": \"Market saturation with a probability of 20%\",\n  \"target_price\": 240.0,\n  \"upside_scenario\": 270.0,\n  \"downside_scenario\": 200.0,\n  \"stop_loss\": 190.0,\n  \"position_size\": \"5-7% of portfolio\",\n  \"investment_score\": 7.5,\n  \"time_horizon\": \"12-18 months\",\n  \"rebalancing_triggers\": [\"Earnings miss\", \"Technical breakdown\", \"Macro shift\"]\n}\n```"
+  },
+  "analysis": "**1. FUNDAMENTAL ANALYSIS**\n\nAmazon.com, Inc. (AMZN) demonstrates robust financial health, evidenced by a revenue growth rate of 13.3% and a significant earnings growth of 33.3%. The company's profitability is strong, with a gross margin of 49.6% and an operating margin of 11.4%, indicating efficient cost management and operational leverage. Free cash flow has turned positive, reaching $32.88 billion in 2024, a substantial recovery from negative figures in previous years. Valuation metrics show a PE ratio of 33.95 and a PB ratio of 7.11, which are relatively high compared to industry peers, suggesting a premium valuation. However, Amazon's market leadership and competitive advantages, such as its vast logistics network and AWS's dominance, justify this premium. The company's growth prospects remain promising, driven by e-commerce expansion, AWS growth, and innovation in AI and logistics. Key risks include regulatory scrutiny, market concentration, and potential disruptions in global supply chains.\n\n**2. TECHNICAL ANALYSIS**\n\nAmazon's stock is currently in a bullish trend, despite trading below its 20-day moving average. The RSI at 43.6 suggests a neutral momentum, while the MACD indicates a bearish cross, signaling potential short-term weakness. The stock's annualized volatility of 28.1% is moderate, reflecting a balanced risk profile. Key support levels are around $210, with resistance near $230. The price is consolidating within the Bollinger Bands' middle area, suggesting potential for a breakout. Volume analysis shows declining interest, which may precede a significant price movement. Investors should watch for a break above the resistance level to confirm a bullish continuation.\n\n**3. MACROECONOMIC CONTEXT**\n\nThe internet retail sector is poised for continued growth, driven by digital transformation and increased online shopping. However, regulatory pressures and technological disruptions, such as AI advancements, could impact the competitive landscape. Amazon's sensitivity to economic factors like interest rates and inflation is moderate, given its diversified revenue streams. Geopolitical factors, including trade relations and regulatory changes, pose risks but also opportunities for global expansion. The company's exposure to international markets provides a hedge against domestic economic fluctuations.\n\n**4. INVESTMENT RECOMMENDATION**\n\nRecommendation: Hold (Conviction Level: 7)\n\nAmazon's core investment thesis is supported by its dominant market position, strong financial performance, and growth potential in e-commerce and cloud computing. The company's ability to innovate and expand into new markets, such as AI and logistics, further strengthens its long-term prospects. However, the current premium valuation and regulatory risks warrant a cautious approach. Risk-adjusted return expectations are moderate, with a 12-18 month horizon. Major risks include regulatory challenges and market saturation, which can be mitigated by diversifying revenue streams and enhancing operational efficiencies. For portfolio positioning, Amazon should be considered a core holding, given its market leadership and growth trajectory, but investors should remain vigilant of macroeconomic and regulatory developments.",
+  "technical_summary": "Current Price: $219.39 (-0.86%)\nTrend: Bullish, price below 20-day MA\nRSI: 43.6 (Neutral)\nMACD: Bearish Cross\nAnnualized Volatility: 28.1% (Medium)\nBollinger Bands: Middle band area"
+}

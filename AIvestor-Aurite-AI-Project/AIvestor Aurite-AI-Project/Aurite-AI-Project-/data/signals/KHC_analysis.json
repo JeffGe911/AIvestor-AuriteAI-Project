@@ -1,0 +1,50 @@
+{
+  "company_info": {
+    "symbol": "KHC",
+    "name": "The Kraft Heinz Company",
+    "sector": "Consumer Defensive",
+    "industry": "Packaged Foods",
+    "market_cap": 32856735744,
+    "employees": 36000,
+    "description": "The Kraft Heinz Company, together with its subsidiaries, manufactures and markets food and beverage products in North America and internationally. Its products include condiments and sauces, cheese and dairy products, meals, meats, refreshment beverages, coffee, and other grocery products under the ...",
+    "website": "https://www.kraftheinzcompany.com",
+    "currency": "USD"
+  },
+  "key_metrics": {
+    "forward_pe": 9.042346,
+    "pb_ratio": 0.79470956,
+    "ps_ratio": 1.2981721,
+    "ev_revenue": 2.035,
+    "ev_ebitda": 8.211,
+    "roe": -0.11637,
+    "roa": 0.039049998,
+    "gross_margin": 0.34307,
+    "operating_margin": 0.20702,
+    "net_margin": -5271000064,
+    "debt_to_equity": 51.121,
+    "current_ratio": 1.072,
+    "quick_ratio": 0.569,
+    "revenue_growth": -0.019,
+    "dividend_yield": 5.79,
+    "payout_ratio": 0.7306,
+    "dividend_rate": 1.6,
+    "beta": 0.2,
+    "book_value": 34.931,
+    "price_to_book": 0.79470956,
+    "52w_high": 36.53,
+    "52w_low": 25.44,
+    "market_cap": 32856735744,
+    "enterprise_value": 51507519488
+  },
+  "signal": {
+    "signal": "Hold",
+    "reason": "No reason provided",
+    "risk": "No risk identified",
+    "target_price": 30.0,
+    "score": 5.0,
+    "confidence": "high",
+    "raw_response": "```json\n{\n  \"signal\": \"Hold\",\n  \"confidence\": 6,\n  \"thesis\": \"KHC offers value with strong cash flow and attractive valuation, but faces growth and profitability challenges.\",\n  \"primary_risk\": \"High leverage with a probability of 60%\",\n  \"secondary_risk\": \"Regulatory challenges with a probability of 40%\",\n  \"target_price\": 30.0,\n  \"upside_scenario\": 34.0,\n  \"downside_scenario\": 26.0,\n  \"stop_loss\": 27.0,\n  \"position_size\": \"2-3% of portfolio\",\n  \"investment_score\": 6.5,\n  \"time_horizon\": \"12-18 months\",\n  \"rebalancing_triggers\": [\"Earnings miss\", \"Technical breakdown\", \"Macro shift\"]\n}\n```"
+  },
+  "analysis": "**1. FUNDAMENTAL ANALYSIS**\n\nThe Kraft Heinz Company (KHC) presents a mixed financial health picture. Revenue growth is negative at -1.9%, indicating challenges in expanding sales. Profitability metrics show a concerning trend with a negative ROE of -11.64%, although the operating margin of 20.7% suggests operational efficiency. Cash flow is robust, with free cash flow improving to $3.02 billion in 2024, indicating strong cash generation capabilities. Valuation metrics are attractive, with a forward P/E of 9.04 and a P/B ratio of 0.79, suggesting undervaluation compared to industry peers. However, the negative net margin and tangible book value raise red flags. KHC's competitive position is supported by its strong brand portfolio and market share in the packaged foods sector, but it faces intense competition and limited pricing power. Growth prospects are constrained by a lack of significant innovation and expansion opportunities. Key risks include high debt levels (D/E ratio of 51.12), regulatory challenges, and market concentration in mature markets.\n\n**2. TECHNICAL ANALYSIS**\n\nKHC's price action is bearish, with the stock trading below its 20-day moving average, indicating downward momentum. The RSI at 40 suggests a neutral stance, while the MACD shows a bullish cross, hinting at potential upward movement. Key support is around $28, with resistance near $32. The stock's annualized volatility of 21.1% is moderate, suggesting a balanced risk profile. Bollinger Bands indicate the price is in the middle band area, reflecting a lack of strong directional bias. Volume analysis shows average trading activity, with no significant accumulation or distribution patterns. Overall, technical indicators suggest caution, with potential for short-term recovery if bullish signals strengthen.\n\n**3. MACROECONOMIC CONTEXT**\n\nThe consumer defensive sector, particularly packaged foods, remains resilient amid economic uncertainties. However, the industry faces challenges from changing consumer preferences and regulatory pressures on health and sustainability. KHC's sensitivity to interest rates and inflation is moderate, as cost pressures could impact margins. The company's global market exposure is limited, reducing geopolitical risks but also limiting growth opportunities in emerging markets. Trade relations and regulatory changes could impact supply chains and cost structures, necessitating strategic adjustments.\n\n**4. INVESTMENT RECOMMENDATION**\n\nRecommendation: Hold (Conviction Level: 6)\n\nKHC's investment thesis is supported by its strong cash flow generation, attractive valuation metrics, and established market position. However, negative revenue growth and profitability concerns temper enthusiasm. The stock offers a potential value play, with a risk-adjusted return expectation of 5-7% over the next 12-18 months, assuming stabilization in revenue and margin improvement. Major risks include high leverage, regulatory challenges, and limited growth catalysts. Mitigation strategies involve focusing on cost efficiencies and exploring strategic partnerships or acquisitions for growth. Portfolio positioning should be as a core holding for income-focused investors, given its stable cash flows and potential for dividend yield enhancement.",
+  "technical_summary": "Current Price: $29.87 (+1.15%)\nTrend: Bearish, price below 20-day MA\nRSI: 40.0 (Neutral)\nMACD: Bullish Cross\nAnnualized Volatility: 21.1% (Medium)\nBollinger Bands: Middle band area"
+}

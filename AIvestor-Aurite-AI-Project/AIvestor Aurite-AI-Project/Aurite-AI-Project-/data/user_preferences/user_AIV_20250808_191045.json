@@ -1,0 +1,19 @@
+{
+  "investment_amount": 10000.0,
+  "risk_level": "moderate",
+  "time_horizon": 5,
+  "investment_goal": "wealth",
+  "monthly_contribution": 0.0,
+  "preferred_sectors": [],
+  "avoid_sectors": [],
+  "needs_liquidity": true,
+  "prefers_esg": true,
+  "tax_sensitive": true,
+  "user_sophistication": "beginner",
+  "behavioral_traits": {
+    "disciplined": true
+  },
+  "profile_id": "AIV_20250808_191045",
+  "creation_timestamp": "2025-08-08T19:10:45.646490",
+  "profile_quality": 0.79
+}

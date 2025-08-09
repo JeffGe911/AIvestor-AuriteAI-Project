@@ -1,0 +1,22 @@
+{
+  "investment_amount": 20000.0,
+  "risk_level": "aggressive",
+  "time_horizon": 20,
+  "investment_goal": "retirement",
+  "monthly_contribution": 0,
+  "preferred_sectors": [
+    "Technology"
+  ],
+  "avoid_sectors": [],
+  "needs_liquidity": false,
+  "prefers_esg": false,
+  "tax_sensitive": false,
+  "user_sophistication": "beginner",
+  "behavioral_traits": {
+    "contrarian": true,
+    "patient": true
+  },
+  "profile_id": "AIV_20250808_142112",
+  "creation_timestamp": "2025-08-08T14:21:12.722601",
+  "profile_quality": 0.64
+}

@@ -1,0 +1,51 @@
+{
+  "company_info": {
+    "symbol": "ALGN",
+    "name": "Align Technology, Inc.",
+    "sector": "Healthcare",
+    "industry": "Medical Instruments & Supplies",
+    "market_cap": 10139398144,
+    "employees": 21485,
+    "description": "Align Technology, Inc. designs, manufactures, and markets Invisalign clear aligners, Vivera retainers, and iTero intraoral scanners and services in the United States, Switzerland, and internationally. The Clear Aligner segment offers comprehensive products, including Invisalign comprehensive package...",
+    "website": "https://www.aligntech.com",
+    "currency": "USD"
+  },
+  "key_metrics": {
+    "pe_ratio": 23.588535,
+    "forward_pe": 13.633529,
+    "pb_ratio": 2.5913303,
+    "ps_ratio": 2.557353,
+    "ev_revenue": 2.341,
+    "ev_ebitda": 11.612,
+    "roe": 0.1141,
+    "roa": 0.065,
+    "gross_margin": 0.69935,
+    "operating_margin": 0.16103001,
+    "net_margin": 437608000,
+    "debt_to_equity": 3.144,
+    "current_ratio": 1.227,
+    "quick_ratio": 1.029,
+    "revenue_growth": -0.016,
+    "earnings_growth": 0.342,
+    "earnings_quarterly_growth": 0.29,
+    "payout_ratio": 0.0,
+    "beta": 1.611,
+    "book_value": 53.98,
+    "price_to_book": 2.5913303,
+    "52w_high": 262.87,
+    "52w_low": 127.7,
+    "market_cap": 10139398144,
+    "enterprise_value": 9280796672
+  },
+  "signal": {
+    "signal": "Hold",
+    "reason": "No reason provided",
+    "risk": "No risk identified",
+    "target_price": 210.0,
+    "score": 5.0,
+    "confidence": "high",
+    "raw_response": "```json\n{\n  \"signal\": \"Hold\",\n  \"confidence\": 6,\n  \"thesis\": \"Align Technology's profitability and innovation pipeline are strong, but bearish technicals and macro uncertainties suggest caution.\",\n  \"primary_risk\": \"Regulatory changes with a probability of 30%\",\n  \"secondary_risk\": \"Competitive pressures with a probability of 25%\",\n  \"target_price\": 210.0,\n  \"upside_scenario\": 240.0,\n  \"downside_scenario\": 180.0,\n  \"stop_loss\": 190.0,\n  \"position_size\": \"2-4% of portfolio\",\n  \"investment_score\": 6.5,\n  \"time_horizon\": \"12-18 months\",\n  \"rebalancing_triggers\": [\"Earnings miss\", \"Technical breakdown\", \"Macro shift\"]\n}\n```"
+  },
+  "analysis": "**1. FUNDAMENTAL ANALYSIS**\n\nAlign Technology, Inc. (ALGN) demonstrates a mixed financial health profile. The company shows a slight decline in revenue growth (-1.6%), but a robust earnings growth of 34.2%, indicating improved operational efficiency. Profitability metrics are strong, with a gross margin of 69.9% and an operating margin of 16.1%. However, the net margin figure appears to be misreported as a raw number rather than a percentage. Cash flow is solid, with a free cash flow of $622.65 million, although capital expenditures have decreased, potentially impacting future growth.\n\nValuation metrics suggest ALGN is reasonably priced relative to peers, with a PE ratio of 23.59 and a forward PE of 13.63, indicating expected earnings growth. The PB ratio of 2.59 is attractive compared to industry averages. ALGN's competitive position is bolstered by its strong brand and innovative product pipeline, particularly in clear aligners, though market share is challenged by increasing competition.\n\nGrowth prospects are promising, driven by technological advancements and potential market expansion in emerging economies. However, risks include high debt-to-equity (3.144), regulatory challenges, and market concentration in orthodontics.\n\n**2. TECHNICAL ANALYSIS**\n\nALGN's technical indicators suggest a bearish trend, with the stock trading below its 20-day moving average. The RSI at 23.9 indicates oversold conditions, potentially signaling a buying opportunity if fundamentals align. The MACD shows a bearish cross, reinforcing the downward momentum. Volatility is high at 35.5%, suggesting potential for significant price swings. The stock is near its lower Bollinger Band, which may indicate a reversal if supported by volume. Key support is around $200, with resistance near $220.\n\n**3. MACROECONOMIC CONTEXT**\n\nThe healthcare sector remains resilient, driven by demographic trends and technological innovation. However, regulatory scrutiny and reimbursement pressures pose challenges. Align Technology's sensitivity to economic cycles is moderate, with interest rates and inflation impacting consumer spending on elective healthcare. Geopolitical factors, such as trade relations and regulatory changes, could affect global market exposure, particularly in China and Europe.\n\n**4. INVESTMENT RECOMMENDATION**\n\nRecommendation: Hold (Conviction Level: 6)\n\nAlign Technology presents a balanced risk-reward profile. The core investment thesis is supported by strong profitability, a robust innovation pipeline, and potential market expansion. However, the current bearish technical indicators and macroeconomic uncertainties warrant caution. Risk-adjusted returns are expected to be moderate over a 12-18 month horizon, with potential upside if revenue growth resumes.\n\nKey risks include regulatory changes, competitive pressures, and economic downturns impacting consumer spending. Mitigation strategies involve monitoring regulatory developments and diversifying market exposure. Portfolio positioning should be as a satellite allocation, given the stock's volatility and sector-specific risks.",
+  "technical_summary": "Current Price: $208.51 (+0.93%)\nTrend: Bearish, price below 20-day MA\nRSI: 23.9 (Oversold)\nMACD: Bearish Cross\nAnnualized Volatility: 35.5% (High)\nBollinger Bands: Near lower band (oversold)"
+}

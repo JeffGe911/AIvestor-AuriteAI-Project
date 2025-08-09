@@ -1,4 +1,5 @@
-# 🚀 Aurite AI Investment Advisor
+# 🚀 Aurite AI Investment Advisor-AIvestor
+Created based on Aurite AI, by Yuqi Ge, Po-Yuan Chen, Chi-Fang Cheng, Shengyun Gao, Lixuan Wei
 
 A comprehensive AI-powered investment analysis and portfolio construction system that combines real-time economic data, stock analysis, and intelligent portfolio optimization.
 

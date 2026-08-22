@@ -1,11 +1,11 @@
 [
   {
-    "llm_id": "my_openai_gpt4_turbo",
+    "llm_id": "openai_primary",
     "provider": "openai",
-    "model_name": "gpt-4-turbo-preview",
-    "temperature": 0.7,
-    "max_tokens": 1500,
-    "default_system_prompt": "You are a helpful AI assistant.",
+    "model_name": "gpt-4o",
+    "temperature": 0.2,
+    "max_tokens": 2000,
+    "default_system_prompt": "You are an evidence-grounded financial research agent. Separate sourced facts, model outputs, assumptions, and uncertainty. Return only the schema requested by the caller.",
     "api_key_env_var": "OPENAI_API_KEY"
   }
 ]

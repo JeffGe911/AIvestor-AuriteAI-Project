@@ -1,7 +1,11 @@
 # 🚀 Aurite AI Investment Advisor-AIvestor
 Created based on Aurite AI, by Yuqi Ge, Po-Yuan Chen, Chi-Fang Cheng, Shengyun Gao, Lixuan Wei
 
-A comprehensive AI-powered investment analysis and portfolio construction system that combines real-time economic data, stock analysis, and intelligent portfolio optimization.
+A five-person USC team project with Aurite AI exploring a multi-agent investment-research workflow: user preferences, market analysis, portfolio construction, and structured reporting.
+
+**My contribution — Yuqi (Jeff) Ge:** User Preference and Portfolio Optimization agents, connecting user goals and constraints to the portfolio workflow. Start with the [user preference agent](Aurite-AI-Project-/enhanced_aivestor_agent1.py), [portfolio agent](Aurite-AI-Project-/portfolio_agent.py), and [workflow orchestrator](Aurite-AI-Project-/master_investment_workflow.py). Other analysis components are team contributions.
+
+**Scope:** An educational research prototype. Forecasts, confidence values, and allocation scenarios are illustrative outputs; they do not establish validated predictive accuracy or realized investment returns.
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -42,8 +46,8 @@ Aurite AI Investment Advisor
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd my_first_aurite_project
+git clone https://github.com/JeffGe911/AIvestor-AuriteAI-Project.git
+cd AIvestor-AuriteAI-Project
 ```
 
 ### 2. Set Up Python Environment
@@ -62,17 +66,17 @@ source .venv/bin/activate
 ### 3. Install Dependencies
 
 ```bash
-cd AURITE-AI-PROJECT-
+cd Aurite-AI-Project-
 pip install -r requirements.txt
 ```
 
 ### 4. Configure Environment Variables
 
-Create a `.env` file in the root directory:
+From the `Aurite-AI-Project-` working directory, create a local `.env` file:
 
 ```bash
 # Copy the example and edit with your API keys
-cp .env.example .env
+cp ../.env.example .env
 ```
 
 Edit `.env` file:
@@ -111,11 +115,12 @@ print(f'API Health: {health}')
 ## 📖 Usage Guide
 
 ### Option 1: Complete Investment Workflow (Recommended)
-##Must run the run_30_stock_analysis.py script before running the master_investment_workflow.py, cause the stock analysis in portfolio agent was defined to fetch the latest version of pre-computed stock analysis output in the "analysis_outputs" folder. You have to make sure the folder is managed to have the most recent stock_analysis output file to be the one that you want to input to the portfolio agent.
+Run stock analysis first. The portfolio workflow reads the latest precomputed stock-analysis output in `analysis_outputs/`; check that the latest file is the input you intend to use.
 
 Run the full end-to-end investment analysis:
 
 ```bash
+python run_30_stock_analysis.py
 python master_investment_workflow.py
 ```
 
@@ -127,7 +132,7 @@ This will:
 5. Construct optimized portfolio
 6. Generate professional reports
 
-#After the workflow executed, you can find all outputs(especially the portfolio_reports in the "analysis_folder".
+After execution, inspect the generated reports in `analysis_outputs/`.
 
 ### Option 2: Individual Analysis Components
 
@@ -227,7 +232,7 @@ The system includes several pre-trained models:
 #### FRED API Not Working
 ```bash
 # Check API key configuration
-python -c "import os; from dotenv import load_dotenv; load_dotenv(); print(f'FRED Key: {os.getenv(\"FRED_API_KEY\", \"NOT_FOUND\")}')"
+python -c "import os; from dotenv import load_dotenv; load_dotenv(); print('FRED key configured:', bool(os.getenv('FRED_API_KEY')))"
 
 # Test API directly
 curl "https://api.stlouisfed.org/fred/series/observations?series_id=GDP&api_key=YOUR_KEY&limit=1&file_type=json"
@@ -236,7 +241,7 @@ curl "https://api.stlouisfed.org/fred/series/observations?series_id=GDP&api_key=
 #### Module Import Errors
 ```bash
 # Ensure you're in the correct directory and virtual environment is activated
-cd AURITE-AI-PROJECT-
+cd Aurite-AI-Project-
 python -c "import sys; print(sys.path)"
 ```
 
@@ -249,18 +254,14 @@ pip install -r requirements.txt --force-reinstall
 ### Error Logs
 Check the console output for detailed error messages. The system uses `loguru` for comprehensive logging.
 
-## 📈 Performance Metrics
+## 📈 Evaluation status
 
-### Recent Results (August 2025)
-- **Macro Model**: 91.5% confidence bullish prediction for Q4 2025
-- **Stock Analysis**: 100% success rate on 31 NASDAQ-100 stocks
-- **Portfolio Construction**: 8% base case return, -20% to +21% scenario range
-- **API Reliability**: 99%+ uptime for FRED and Yahoo Finance APIs
+The repository includes [example portfolio reports](Aurite-AI-Project-/analysis_outputs/) and an [integration summary](Aurite-AI-Project-/INTEGRATION_SUCCESS_SUMMARY.md). They demonstrate workflow outputs and component integration, rather than validated investment performance.
 
-### Benchmarks
-- **Speed**: Complete workflow execution in ~2-3 minutes
-- **Accuracy**: Historical backtests show 65%+ directional accuracy
-- **Coverage**: 100+ NASDAQ stocks, 15 economic indicators, 5 asset classes
+- **Processing coverage is not predictive accuracy.** The stock agent computes `success_rate` as generated predictions divided by input symbols. Its error path can append a neutral fallback prediction, so that ratio may include fallback results. See [the implementation](Aurite-AI-Project-/stock_analysis_agent.py).
+- **Confidence is not measured accuracy.** A model's confidence for a forecast is distinct from out-of-sample accuracy or a calibrated probability.
+- **Returns and allocation scenarios are illustrative.** Generated scenario values are not realized investment returns.
+- **Further evaluation:** document time-based holdouts, benchmark comparisons, fallback frequency, data freshness, and measured API availability before presenting accuracy or reliability claims.
 
 ## 🔐 Security & Privacy
 
@@ -283,8 +284,8 @@ Check the console output for detailed error messages. The system uses `loguru` f
 pip install -r requirements.txt
 pip install pytest black flake8
 
-# Run tests
-pytest tests/
+# A repository-level tests/ directory is not included in this snapshot.
+# Inspect sample outputs and integration notes; a reproducible test suite remains future work.
 
 # Format code
 black .
@@ -306,7 +307,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or feature requests:
 1. Check the [Troubleshooting](#-troubleshooting) section
-2. Search existing [Issues](https://github.com/your-repo/issues)
+2. Search existing [Issues](https://github.com/JeffGe911/AIvestor-AuriteAI-Project/issues)
 3. Create a new issue with detailed information
 
 ## 🗺️ Roadmap
